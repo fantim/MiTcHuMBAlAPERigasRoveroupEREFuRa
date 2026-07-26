@@ -1,0 +1,4262 @@
+[
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-08 00:21:38",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 61,
+      "temperature": 68.54163636363629,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-08 00:47:13",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 62,
+      "temperature": 66.85730337078651,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-08 01:12:49",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 63,
+      "temperature": 65.45977528089897,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-08 01:39:32",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 65,
+      "temperature": 64.3162376237624,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-08 02:05:07",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 66,
+      "temperature": 62.8204494382024,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-08 02:31:51",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 69,
+      "temperature": 61.5788118811882,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-08 02:57:26",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 70,
+      "temperature": 60.90921348314616,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-08 03:23:19",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 72,
+      "temperature": 60.11913043478256,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-08 03:50:52",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 73,
+      "temperature": 59.69218181818179,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-08 04:18:26",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 74,
+      "temperature": 59.225818181818234,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-08 04:46:00",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 75,
+      "temperature": 59.111272727272684,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-08 05:13:33",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 75,
+      "temperature": 58.82796460176984,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-08 05:41:07",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 76,
+      "temperature": 58.64818181818191,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-08 06:08:41",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 76,
+      "temperature": 58.47274336283189,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-08 06:34:16",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 76,
+      "temperature": 58.43652173913042,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-08 06:59:52",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 76,
+      "temperature": 58.23891304347841,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-08 07:27:25",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 77,
+      "temperature": 58.19079646017689,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-08 07:53:01",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 77,
+      "temperature": 58.10978260869569,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-08 08:20:35",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 77,
+      "temperature": 57.932743362831914,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-08 08:48:08",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 77,
+      "temperature": 57.86109090909087,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-08 09:15:42",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 78,
+      "temperature": 57.56796460177003,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-08 09:43:16",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 78,
+      "temperature": 57.388181818181906,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-08 10:09:59",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 78,
+      "temperature": 57.38000000000009,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-08 10:35:34",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 78,
+      "temperature": 57.210112359550465,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-08 11:02:17",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 78,
+      "temperature": 57.199999999999896,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-08 11:27:53",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 78,
+      "temperature": 56.93910112359556,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-08 11:56:00",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 79,
+      "temperature": 57.0141304347827,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-08 12:42:25",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 79,
+      "temperature": 56.85011235955063,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-08 13:09:08",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 79,
+      "temperature": 56.84000000000008,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-08 13:35:51",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 79,
+      "temperature": 56.84000000000008,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-08 14:01:26",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 79,
+      "temperature": 56.840000000000074,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-08 14:28:43",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 80,
+      "temperature": 56.84000000000008,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-08 14:56:00",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 80,
+      "temperature": 57.04316831683169,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-08 15:22:26",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 81,
+      "temperature": 57.360434782608785,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-08 15:50:00",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 81,
+      "temperature": 57.71872727272713,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-08 16:16:43",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 81,
+      "temperature": 58.018019801980294,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-08 16:44:34",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 81,
+      "temperature": 58.61610619469037,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-08 17:10:26",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 79,
+      "temperature": 59.17413043478255,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-08 17:37:43",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 79,
+      "temperature": 60.12455445544562,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-08 18:05:00",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 77,
+      "temperature": 61.04059405940595,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-08 18:31:26",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 76,
+      "temperature": 62.16565217391293,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-08 18:59:50",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 74,
+      "temperature": 63.62424778761057,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-08 19:26:16",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 70,
+      "temperature": 65.86543478260873,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-08 19:53:33",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 65,
+      "temperature": 68.4205940594059,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-08 20:19:59",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 63,
+      "temperature": 69.6747826086956,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-08 20:47:16",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 62,
+      "temperature": 68.42059405940593,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-08 21:15:40",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 62,
+      "temperature": 68.02548672566371,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-08 21:42:57",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 62,
+      "temperature": 68.13366336633669,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-08 22:08:50",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 61,
+      "temperature": 68.60652173913043,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-08 22:36:23",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 61,
+      "temperature": 69.56927272727269,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-08 23:04:14",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 60,
+      "temperature": 70.32407079646028,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-08 23:30:40",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 61,
+      "temperature": 70.63347826086948,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-08 23:57:57",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 60,
+      "temperature": 70.85326732673272,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-09 00:25:14",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 54,
+      "temperature": 74.29287128712876,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-09 00:51:40",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 57,
+      "temperature": 68.99978260869561,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-09 01:20:04",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 61,
+      "temperature": 65.58035398230084,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-09 01:47:21",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 64,
+      "temperature": 63.77445544554457,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-09 02:14:55",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 67,
+      "temperature": 62.41465346534648,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-09 02:43:19",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 69,
+      "temperature": 61.09469026548655,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-09 03:10:36",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 71,
+      "temperature": 60.91049504950502,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-09 03:42:56",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 73,
+      "temperature": 60.044955752212225,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-09 04:25:58",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 74,
+      "temperature": 59.39033707865164,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-09 04:52:07",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 76,
+      "temperature": 58.97168539325844,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-09 05:18:17",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 77,
+      "temperature": 58.71078651685394,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-09 05:44:26",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 77,
+      "temperature": 58.4701123595506,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-09 06:11:43",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 78,
+      "temperature": 58.46000000000003,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-09 06:37:52",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 78,
+      "temperature": 58.12022471910115,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-09 07:04:02",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 79,
+      "temperature": 58.23500000000001,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-09 07:30:11",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 79,
+      "temperature": 58.25652173913053,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-09 07:57:28",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 79,
+      "temperature": 58.100000000000065,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-09 08:24:44",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 80,
+      "temperature": 57.92891089108916,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-09 08:52:52",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 80,
+      "temperature": 57.713818181818034,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-09 09:19:01",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 81,
+      "temperature": 57.5701123595506,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-09 09:47:09",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 81,
+      "temperature": 57.299818181818125,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-09 10:13:18",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 82,
+      "temperature": 57.19999999999991,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-09 10:41:42",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 82,
+      "temperature": 57.23823008849553,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-09 11:10:07",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 83,
+      "temperature": 57.207964601769795,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-09 11:37:23",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 83,
+      "temperature": 57.199999999999896,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-09 12:04:40",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 83,
+      "temperature": 57.16257425742577,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-09 12:30:50",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 84,
+      "temperature": 57.18382022471903,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-09 12:58:06",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 84,
+      "temperature": 57.19108910891079,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-09 13:26:31",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 84,
+      "temperature": 57.40618181818196,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-09 13:54:04",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 83,
+      "temperature": 57.736435643564235,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-09 14:20:31",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 83,
+      "temperature": 58.24157303370789,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-09 14:48:04",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 83,
+      "temperature": 58.70772277227715,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-09 15:15:21",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 81,
+      "temperature": 59.40811881188119,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-09 15:42:55",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 81,
+      "temperature": 60.17623762376251,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-09 16:09:21",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 79,
+      "temperature": 60.788260869565185,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-09 16:36:55",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 79,
+      "temperature": 61.91029702970314,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-09 17:04:28",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 76,
+      "temperature": 63.961584158415796,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-09 17:30:54",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 68,
+      "temperature": 68.02629213483146,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-09 17:59:19",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 64,
+      "temperature": 71.85527272727279,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-09 18:25:45",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 60,
+      "temperature": 74.92089887640444,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-09 18:53:19",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 55,
+      "temperature": 77.01069306930698,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-09 19:20:52",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 52,
+      "temperature": 78.90514851485148,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-09 19:48:26",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 51,
+      "temperature": 80.17405940594045,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-09 20:16:50",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 49,
+      "temperature": 80.53454545454541,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-09 20:45:15",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 50,
+      "temperature": 79.87672727272731,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-09 21:13:39",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 50,
+      "temperature": 78.59381818181818,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-09 21:42:20",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 50,
+      "temperature": 77.15610619469024,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-09 22:10:44",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 51,
+      "temperature": 76.45018181818182,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-09 22:38:52",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 51,
+      "temperature": 77.00955752212394,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-09 23:05:52",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 50,
+      "temperature": 77.40455445544545,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-09 23:32:35",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 50,
+      "temperature": 76.055,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-10 00:41:29",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 47,
+      "temperature": 77.74495049504954,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-10 01:08:12",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 50,
+      "temperature": 72.05000000000013,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-10 01:34:55",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 53,
+      "temperature": 69.2795652173913,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-10 02:03:36",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 56,
+      "temperature": 66.84991150442482,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-10 02:30:19",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 59,
+      "temperature": 64.86173913043484,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-10 02:57:02",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 61,
+      "temperature": 63.30239130434794,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-10 03:23:45",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 64,
+      "temperature": 62.253695652173995,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-10 03:51:53",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 65,
+      "temperature": 61.15345454545434,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-10 04:18:36",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 68,
+      "temperature": 59.9997826086956,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-10 04:45:53",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 70,
+      "temperature": 59.16752475247521,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-10 05:14:17",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 71,
+      "temperature": 59.14727272727275,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-10 05:41:51",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 73,
+      "temperature": 58.780792079207984,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-10 06:09:24",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 74,
+      "temperature": 59.12475247524756,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-10 06:36:58",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 74,
+      "temperature": 59.308316831683136,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-10 07:03:24",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 75,
+      "temperature": 59.2487640449437,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-10 07:30:07",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 75,
+      "temperature": 59.5298876404494,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-10 07:57:41",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 76,
+      "temperature": 59.36891089108903,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-10 08:25:15",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 76,
+      "temperature": 58.88415841584154,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-10 08:51:58",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 77,
+      "temperature": 58.99021739130435,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-10 09:20:39",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 77,
+      "temperature": 59.14336283185843,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-10 09:49:03",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 77,
+      "temperature": 59.00818181818182,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-10 10:15:29",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 77,
+      "temperature": 58.830112359550554,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-10 10:41:56",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 77,
+      "temperature": 58.81999999999999,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-10 11:09:29",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 77,
+      "temperature": 58.64891089108918,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-10 11:38:11",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 78,
+      "temperature": 58.72123893805323,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-10 12:08:16",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 78,
+      "temperature": 58.64000000000004,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-10 12:54:23",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 78,
+      "temperature": 58.64000000000008,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-10 13:23:05",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 78,
+      "temperature": 58.64000000000009,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-10 13:49:48",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 78,
+      "temperature": 58.809887640449425,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-10 14:18:46",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 78,
+      "temperature": 59.09238938053106,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-10 14:45:29",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 77,
+      "temperature": 59.5865168539326,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-10 15:12:46",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 76,
+      "temperature": 60.42434782608696,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-10 15:39:12",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 75,
+      "temperature": 61.34000000000017,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-10 16:06:12",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 73,
+      "temperature": 62.09521739130423,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-10 16:34:53",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 70,
+      "temperature": 64.32309090909078,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-10 17:03:51",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 65,
+      "temperature": 67.80088495575221,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-10 17:30:51",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 60,
+      "temperature": 70.43391304347831,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-10 17:59:49",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 56,
+      "temperature": 72.22601769911498,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-10 18:28:47",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 52,
+      "temperature": 74.16460176991156,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-10 18:56:38",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 51,
+      "temperature": 75.1536633663367,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-10 19:24:45",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 50,
+      "temperature": 76.36198019801996,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-10 19:51:28",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 49,
+      "temperature": 77.10112359550568,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-10 20:18:28",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 48,
+      "temperature": 76.00608695652178,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-10 20:46:19",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 49,
+      "temperature": 73.94712871287126,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-10 21:15:17",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 50,
+      "temperature": 71.42477876106194,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-10 21:41:26",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 51,
+      "temperature": 69.82022471910122,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-10 22:08:43",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 51,
+      "temperature": 69.92831683168308,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-10 22:37:07",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 52,
+      "temperature": 69.51646017699105,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-10 23:05:15",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 52,
+      "temperature": 69.57909090909098,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-10 23:31:24",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 52,
+      "temperature": 70.21258426966286,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-10 23:59:48",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 52,
+      "temperature": 70.62353982300893,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-11 00:26:14",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 50,
+      "temperature": 74.89282608695669,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-11 00:55:29",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 52,
+      "temperature": 69.68872727272726,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-11 01:23:20",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 54,
+      "temperature": 66.83801980198032,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-11 01:50:37",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 58,
+      "temperature": 65.07108695652171,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-11 02:19:35",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 61,
+      "temperature": 63.73256637168144,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-11 02:46:35",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 63,
+      "temperature": 62.889565217391294,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-11 03:15:33",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 66,
+      "temperature": 62.11575221238947,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-11 03:43:06",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 68,
+      "temperature": 60.86415841584161,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-11 04:09:16",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 68,
+      "temperature": 59.760449438202244,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-11 04:35:25",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 69,
+      "temperature": 59.890217391304304,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-11 05:02:08",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 70,
+      "temperature": 59.77086956521739,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-11 05:29:42",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 71,
+      "temperature": 59.618415841584095,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-11 05:56:25",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 71,
+      "temperature": 59.369782608695594,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-11 06:25:06",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 72,
+      "temperature": 59.187964601769984,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-11 06:53:47",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 73,
+      "temperature": 59.34407079646007,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-11 08:02:08",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 73,
+      "temperature": 58.71306930693076,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-11 08:29:24",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 74,
+      "temperature": 58.728043478260965,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-11 08:56:58",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 74,
+      "temperature": 58.468910891089145,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-11 09:24:32",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 75,
+      "temperature": 58.23009900990094,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-11 09:52:22",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 76,
+      "temperature": 57.772079207920726,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-11 10:21:37",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 76,
+      "temperature": 57.73203539822995,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-11 10:49:45",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 76,
+      "temperature": 57.387200000000085,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-11 11:16:28",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 76,
+      "temperature": 57.209782608695555,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-11 11:44:52",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 77,
+      "temperature": 56.900594059406004,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-11 12:11:35",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 77,
+      "temperature": 56.70499999999998,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-11 12:38:18",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 78,
+      "temperature": 56.829887640449506,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-11 13:07:16",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 77,
+      "temperature": 57.145840707964474,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-11 13:34:16",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 77,
+      "temperature": 57.50521739130441,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-11 14:03:14",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 78,
+      "temperature": 58.0378761061948,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-11 14:31:39",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 77,
+      "temperature": 58.94475247524762,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-11 14:59:29",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 76,
+      "temperature": 60.3027722772277,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-11 15:28:27",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 73,
+      "temperature": 61.90548672566372,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-11 15:56:18",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 69,
+      "temperature": 64.69227722772293,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-11 16:24:08",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 66,
+      "temperature": 66.56000000000003,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-11 16:51:42",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 62,
+      "temperature": 69.49258426966293,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-11 17:19:33",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 58,
+      "temperature": 72.00990099009898,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-11 17:47:23",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 54,
+      "temperature": 74.31069306930691,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-11 18:14:57",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 52,
+      "temperature": 74.23325842696626,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-11 18:42:30",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 47,
+      "temperature": 76.99595505617975,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-11 19:10:38",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 46,
+      "temperature": 79.4433663366337,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-11 19:37:38",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 45,
+      "temperature": 81.018695652174,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-11 20:06:53",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 44,
+      "temperature": 81.19415929203538,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-11 20:33:53",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 43,
+      "temperature": 79.95078651685402,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-11 21:02:17",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 43,
+      "temperature": 78.87854545454553,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-11 21:29:51",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 45,
+      "temperature": 78.42396039603949,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-11 21:57:41",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 45,
+      "temperature": 77.74495049504947,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-11 22:26:39",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 45,
+      "temperature": 77.27238938053084,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-11 22:54:30",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 46,
+      "temperature": 77.68613861386135,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-11 23:23:11",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 46,
+      "temperature": 77.94090909090906,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-11 23:51:02",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 46,
+      "temperature": 77.11940594059402,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-12 00:20:00",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 47,
+      "temperature": 75.89148514851487,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-12 00:46:26",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 49,
+      "temperature": 73.59760869565207,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-12 01:13:43",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 50,
+      "temperature": 72.86534653465354,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-12 01:40:59",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 51,
+      "temperature": 71.56970297029696,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-12 02:08:50",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 52,
+      "temperature": 70.8283168316832,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-12 02:36:41",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 53,
+      "temperature": 69.87485148514855,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-12 03:04:48",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 54,
+      "temperature": 68.2530693069307,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-12 03:32:55",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 56,
+      "temperature": 66.90396039603954,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-12 04:00:12",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 60,
+      "temperature": 65.28752475247525,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-12 04:27:12",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 62,
+      "temperature": 63.819550561797854,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-12 05:38:38",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 68,
+      "temperature": 61.96910891089108,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-12 06:05:38",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 69,
+      "temperature": 61.25089108910883,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-12 06:34:36",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 70,
+      "temperature": 61.15203539823,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-12 07:00:29",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 74,
+      "temperature": 60.37123595505632,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-12 07:26:38",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 75,
+      "temperature": 60.430217391304275,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-12 07:52:30",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 75,
+      "temperature": 60.10022471910107,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-12 08:20:21",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 76,
+      "temperature": 59.84600000000009,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-12 08:46:13",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 76,
+      "temperature": 59.55011235955053,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-12 09:13:13",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 77,
+      "temperature": 59.70988764044943,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-12 09:40:30",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 78,
+      "temperature": 59.92851485148514,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-12 10:07:47",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 77,
+      "temperature": 60.21900990099019,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-12 10:35:04",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 77,
+      "temperature": 60.430816326530525,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-12 11:03:28",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 77,
+      "temperature": 60.43999999999986,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-12 11:29:54",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 78,
+      "temperature": 60.40478260869557,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-12 11:57:11",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 77,
+      "temperature": 60.95861386138601,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-12 12:25:35",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 77,
+      "temperature": 61.25557522123899,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-12 12:53:09",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 77,
+      "temperature": 61.11544554455436,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-12 13:20:43",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 77,
+      "temperature": 61.15999999999992,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-12 13:49:24",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 77,
+      "temperature": 61.37504424778777,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-12 14:17:14",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 77,
+      "temperature": 61.86217821782187,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-12 14:44:48",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 76,
+      "temperature": 62.652826086956466,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-12 15:13:12",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 75,
+      "temperature": 64.28849557522125,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-12 15:40:29",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 74,
+      "temperature": 65.1110891089108,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-12 16:09:27",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 72,
+      "temperature": 66.48194690265488,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-12 16:36:27",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 69,
+      "temperature": 68.44292134831448,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-12 17:04:35",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 68,
+      "temperature": 68.32792079207911,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-12 17:32:42",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 62,
+      "temperature": 73.69584158415834,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-12 18:00:50",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 57,
+      "temperature": 77.71821782178208,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-12 18:27:49",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 53,
+      "temperature": 81.81550561797746,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-12 18:56:48",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 48,
+      "temperature": 83.98176991150444,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-12 19:25:29",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 46,
+      "temperature": 86.7461818181817,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-12 20:40:00",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 43,
+      "temperature": 87.51841584158406,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-12 21:06:43",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 42,
+      "temperature": 87.32847826086952,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-12 21:33:27",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 41,
+      "temperature": 86.75033707865175,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-12 22:02:08",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 41,
+      "temperature": 86.55963636363634,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-12 22:29:58",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 40,
+      "temperature": 85.65603960396044,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-12 22:57:49",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 40,
+      "temperature": 85.93049504950507,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-12 23:24:49",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 38,
+      "temperature": 86.6241304347827,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-12 23:50:58",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 36,
+      "temperature": 85.59348314606747,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-13 00:18:15",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 36,
+      "temperature": 83.49247524752481,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-13 00:45:49",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 37,
+      "temperature": 82.95960396039614,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-13 01:14:30",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 37,
+      "temperature": 82.06781818181821,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-13 01:41:47",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 37,
+      "temperature": 80.88921348314601,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-13 02:09:03",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 38,
+      "temperature": 79.51821782178217,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-13 02:38:01",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 39,
+      "temperature": 77.9557522123893,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-13 03:06:59",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 40,
+      "temperature": 76.47911504424778,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-13 03:34:50",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 40,
+      "temperature": 75.34435643564352,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-13 04:00:59",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 41,
+      "temperature": 74.42943820224728,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-13 04:28:16",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 42,
+      "temperature": 73.67445544554454,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-13 04:56:24",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 44,
+      "temperature": 72.69115044247786,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-13 05:23:40",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 47,
+      "temperature": 71.93504950495046,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-13 05:50:57",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 49,
+      "temperature": 71.45920792079195,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-13 06:19:05",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 50,
+      "temperature": 70.80799999999995,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-13 06:45:14",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 52,
+      "temperature": 70.0204494382021,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-13 07:12:31",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 53,
+      "temperature": 69.80891089108923,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-13 07:40:55",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 54,
+      "temperature": 69.13702970297022,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-13 08:08:12",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 57,
+      "temperature": 68.40277227722768,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-13 08:36:19",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 58,
+      "temperature": 67.66454545454557,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-13 09:03:19",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 59,
+      "temperature": 67.06435643564359,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-13 09:32:00",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 60,
+      "temperature": 66.92000000000006,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-13 09:59:34",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 60,
+      "temperature": 66.74891089108895,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-13 10:29:06",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 60,
+      "temperature": 66.67049504950505,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-13 11:00:36",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 60,
+      "temperature": 66.3889108910892,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-13 11:29:00",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 60,
+      "temperature": 66.2081818181817,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-13 11:56:34",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 60,
+      "temperature": 66.19999999999987,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-13 12:23:00",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 60,
+      "temperature": 66.36988764044952,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-13 12:50:50",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 61,
+      "temperature": 66.20891089108899,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-13 13:17:34",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 61,
+      "temperature": 66.32134831460682,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-13 13:45:24",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 62,
+      "temperature": 66.55108910891103,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-13 14:13:15",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 63,
+      "temperature": 66.73108910891074,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-13 14:39:58",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 63,
+      "temperature": 66.9098876404495,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-13 15:07:48",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 64,
+      "temperature": 67.40653465346546,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-13 15:36:46",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 62,
+      "temperature": 69.41451327433627,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-13 16:03:29",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 61,
+      "temperature": 70.99932584269675,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-13 16:31:20",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 62,
+      "temperature": 70.7178217821781,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-13 16:59:10",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 60,
+      "temperature": 74.02554455445545,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-13 17:27:18",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 56,
+      "temperature": 77.44265306122442,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-13 17:54:18",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 52,
+      "temperature": 81.86808988764034,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-13 18:22:08",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 48,
+      "temperature": 84.4584158415842,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-13 18:49:59",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 44,
+      "temperature": 86.30475247524751,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-13 19:17:50",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 43,
+      "temperature": 87.0924752475247,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-13 19:44:49",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 42,
+      "temperature": 87.98195652173891,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-13 20:13:14",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 42,
+      "temperature": 88.42021739130445,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-13 20:41:21",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 41,
+      "temperature": 88.41128712871296,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-13 21:10:36",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 40,
+      "temperature": 88.51287128712875,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-13 21:38:44",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 40,
+      "temperature": 88.71425742574252,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-13 22:07:42",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 38,
+      "temperature": 89.03872727272731,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-13 22:34:42",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 37,
+      "temperature": 88.7242696629213,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-13 23:03:40",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 38,
+      "temperature": 86.66599999999997,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-13 23:30:06",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 39,
+      "temperature": 85.34067415730344,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-13 23:57:23",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 39,
+      "temperature": 83.2287128712871,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-14 00:26:04",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 40,
+      "temperature": 81.28666666666675,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-14 00:54:11",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 41,
+      "temperature": 80.06000000000004,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-14 01:23:26",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 42,
+      "temperature": 79.09049504950471,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-14 01:51:17",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 43,
+      "temperature": 78.27960396039606,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-14 02:19:58",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 46,
+      "temperature": 77.01145454545458,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-14 02:46:58",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 46,
+      "temperature": 76.56112359550562,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-14 03:13:41",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 44,
+      "temperature": 76.29617977528085,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-14 03:41:15",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 44,
+      "temperature": 75.50475247524756,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-14 04:08:14",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 46,
+      "temperature": 73.43326086956519,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-14 04:34:57",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 49,
+      "temperature": 72.09955056179776,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-14 05:03:39",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 51,
+      "temperature": 71.1614545454547,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-14 05:32:37",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 53,
+      "temperature": 70.10902654867233,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-14 06:00:27",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 53,
+      "temperature": 69.32237623762391,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-14 06:30:33",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 53,
+      "temperature": 68.64636363636359,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-14 06:58:23",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 53,
+      "temperature": 68.19782178217831,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-14 07:26:14",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 53,
+      "temperature": 67.66673267326743,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-14 07:53:48",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 53,
+      "temperature": 67.30022471910111,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-14 08:26:59",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 53,
+      "temperature": 66.70654867256641,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-14 08:55:57",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 54,
+      "temperature": 66.2159292035397,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-14 09:23:47",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 56,
+      "temperature": 65.64396039603945,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-14 09:52:29",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 57,
+      "temperature": 65.160909090909,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-14 10:19:12",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 58,
+      "temperature": 64.78022471910126,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-14 10:48:10",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 59,
+      "temperature": 64.29168141592919,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-14 11:15:10",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 60,
+      "temperature": 63.70543478260874,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-14 11:44:08",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 63,
+      "temperature": 63.30247787610623,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-14 12:13:06",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 65,
+      "temperature": 62.96796460176994,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-14 12:42:21",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 67,
+      "temperature": 62.96000000000003,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-14 13:11:19",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 71,
+      "temperature": 62.97963636363642,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-14 13:39:26",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 73,
+      "temperature": 63.359207920792095,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-14 14:07:34",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 71,
+      "temperature": 64.49980198019807,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-14 14:35:41",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 69,
+      "temperature": 66.69900990099009,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-14 15:04:39",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 65,
+      "temperature": 70.39400000000006,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-14 15:32:46",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 61,
+      "temperature": 73.79029702970293,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-14 16:02:01",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 57,
+      "temperature": 77.49539823008838,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-14 16:30:09",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 53,
+      "temperature": 80.20079207920791,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-14 16:57:09",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 50,
+      "temperature": 83.28584269662926,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-14 17:25:16",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 46,
+      "temperature": 86.30475247524745,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-14 17:53:24",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 43,
+      "temperature": 89.55009900990086,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-14 18:20:24",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 41,
+      "temperature": 91.87528089887641,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-14 18:47:24",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 40,
+      "temperature": 93.62652173913031,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-14 19:16:22",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 37,
+      "temperature": 95.43690909090908,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-14 19:44:29",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 34,
+      "temperature": 96.42574257425724,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-14 20:13:27",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 31,
+      "temperature": 96.27963636363643,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-14 20:42:42",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 28,
+      "temperature": 94.80725663716807,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-14 21:09:42",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 28,
+      "temperature": 94.05955056179776,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-14 21:38:23",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 28,
+      "temperature": 92.86548672566374,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-14 22:06:47",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 25,
+      "temperature": 91.65363636363634,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-14 23:16:32",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 24,
+      "temperature": 90.70851485148519,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-14 23:44:57",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 25,
+      "temperature": 90.42963636363626,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
+  }
+]

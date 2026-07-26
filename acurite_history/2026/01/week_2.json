@@ -1,0 +1,5738 @@
+[
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 00:02:34",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 74,
+      "temperature": 59.709615384615375,
+      "wind_avg_mph": 1.6389887307692304,
+      "wind_dir_deg": 103.36538461538461,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 00:10:50",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 77,
+      "temperature": 58.00869565217388,
+      "wind_avg_mph": 3.3116437826086944,
+      "wind_dir_deg": 90.54347826086956,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 00:19:06",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 81,
+      "temperature": 56.44666666666662,
+      "wind_avg_mph": 2.3164756444444436,
+      "wind_dir_deg": 100.31111111111112,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 00:27:22",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 83,
+      "temperature": 55.61304347826088,
+      "wind_avg_mph": 2.40227904347826,
+      "wind_dir_deg": 151.7826086956522,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 00:36:42",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 85,
+      "temperature": 54.957692307692355,
+      "wind_avg_mph": 2.2928634999999997,
+      "wind_dir_deg": 101.28846153846153,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 00:46:02",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 86,
+      "temperature": 54.52156862745098,
+      "wind_avg_mph": 1.8421858823529416,
+      "wind_dir_deg": 144.47058823529412,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 00:56:10",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 86,
+      "temperature": 54.525454545454544,
+      "wind_avg_mph": 0.9395147999999997,
+      "wind_dir_deg": 128.43636363636364,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 01:04:26",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 83,
+      "temperature": 54.11739130434782,
+      "wind_avg_mph": 1.2546315652173912,
+      "wind_dir_deg": 209.69565217391303,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 01:13:46",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 81,
+      "temperature": 53.6576923076923,
+      "wind_avg_mph": 1.5744616153846152,
+      "wind_dir_deg": 114.4423076923077,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 01:22:02",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 80,
+      "temperature": 53.01739130434786,
+      "wind_avg_mph": 1.0212117391304343,
+      "wind_dir_deg": 159.19565217391303,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 01:31:22",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 80,
+      "temperature": 52.54230769230771,
+      "wind_avg_mph": 0.770023576923077,
+      "wind_dir_deg": 140.98076923076923,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 01:39:38",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 81,
+      "temperature": 51.90666666666665,
+      "wind_avg_mph": 0.03479684444444445,
+      "wind_dir_deg": 192.15555555555557,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 01:48:58",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 83,
+      "temperature": 51.151923076923104,
+      "wind_avg_mph": 0.02150903846153846,
+      "wind_dir_deg": 133.71153846153845,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 01:57:14",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 85,
+      "temperature": 50.346666666666664,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 116.5111111111111,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 02:05:30",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 86,
+      "temperature": 49.69999999999999,
+      "wind_avg_mph": 0.02917747826086957,
+      "wind_dir_deg": 254.32608695652175,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 02:15:54",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 85,
+      "temperature": 49.58148148148151,
+      "wind_avg_mph": 0.4639579259259257,
+      "wind_dir_deg": 172.90740740740742,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 02:24:10",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 83,
+      "temperature": 50.158695652173925,
+      "wind_avg_mph": 0.7342998695652172,
+      "wind_dir_deg": 165.7391304347826,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 02:33:30",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 82,
+      "temperature": 50.21730769230767,
+      "wind_avg_mph": 0.7097982692307687,
+      "wind_dir_deg": 134.73076923076923,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 02:41:46",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 81,
+      "temperature": 50.26956521739134,
+      "wind_avg_mph": 0.598138304347826,
+      "wind_dir_deg": 192.17391304347825,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 02:52:10",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 82,
+      "temperature": 50.10526315789469,
+      "wind_avg_mph": 0.4042189824561403,
+      "wind_dir_deg": 95.82456140350877,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 03:00:26",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 83,
+      "temperature": 49.868181818181824,
+      "wind_avg_mph": 0.24911377272727275,
+      "wind_dir_deg": 142.25,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 03:09:46",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 83,
+      "temperature": 49.707999999999956,
+      "wind_avg_mph": 0.50107456,
+      "wind_dir_deg": 138.5,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 03:18:02",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 80,
+      "temperature": 49.92340425531916,
+      "wind_avg_mph": 0.7519925957446807,
+      "wind_dir_deg": 144.4255319148936,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 03:26:18",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 80,
+      "temperature": 49.84888888888889,
+      "wind_avg_mph": 0.36785235555555557,
+      "wind_dir_deg": 192.35555555555555,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 03:35:38",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 81,
+      "temperature": 49.28431372549018,
+      "wind_avg_mph": 0.35527870588235294,
+      "wind_dir_deg": 166,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 03:43:54",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 82,
+      "temperature": 48.653488372093044,
+      "wind_avg_mph": 0.47339893023255813,
+      "wind_dir_deg": 220.1627906976744,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 03:54:18",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 79,
+      "temperature": 49.09491525423727,
+      "wind_avg_mph": 0.530799322033898,
+      "wind_dir_deg": 170.98305084745763,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 04:04:42",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 79,
+      "temperature": 49.16727272727274,
+      "wind_avg_mph": 0.46365665454545435,
+      "wind_dir_deg": 228.5818181818182,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 04:12:58",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 80,
+      "temperature": 48.90652173913044,
+      "wind_avg_mph": 0.1361615652173913,
+      "wind_dir_deg": 177.1304347826087,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 04:23:22",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 82,
+      "temperature": 48.384482758620656,
+      "wind_avg_mph": 0.0809926551724138,
+      "wind_dir_deg": 205.56896551724137,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 04:33:46",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 84,
+      "temperature": 47.6607142857143,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 257.625,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 04:44:10",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 86,
+      "temperature": 47.034482758620726,
+      "wind_avg_mph": 0.18898286206896553,
+      "wind_dir_deg": 281.62068965517244,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 04:54:34",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 86,
+      "temperature": 47.172727272727265,
+      "wind_avg_mph": 0.49212679999999986,
+      "wind_dir_deg": 160.92727272727274,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 05:04:42",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 84,
+      "temperature": 48.0428571428571,
+      "wind_avg_mph": 0.4993169642857141,
+      "wind_dir_deg": 202.17857142857142,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 05:14:02",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 84,
+      "temperature": 48.11399999999996,
+      "wind_avg_mph": 0.7426640799999998,
+      "wind_dir_deg": 214.94,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 05:22:18",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 83,
+      "temperature": 48.274468085106406,
+      "wind_avg_mph": 0.8424220851063828,
+      "wind_dir_deg": 180.63829787234042,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 05:31:38",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 83,
+      "temperature": 48.46000000000003,
+      "wind_avg_mph": 0.39370144,
+      "wind_dir_deg": 143.66,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 05:42:02",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 83,
+      "temperature": 48.52142857142851,
+      "wind_avg_mph": 0.17575957142857143,
+      "wind_dir_deg": 172.85714285714286,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 05:51:54",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 83,
+      "temperature": 48.7781818181818,
+      "wind_avg_mph": 0.08134327272727274,
+      "wind_dir_deg": 95,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 06:02:34",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 84,
+      "temperature": 48.765517241379335,
+      "wind_avg_mph": 0.15041493103448278,
+      "wind_dir_deg": 83.65517241379311,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 06:10:50",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 86,
+      "temperature": 48.66170212765956,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 134.6595744680851,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 06:20:10",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 86,
+      "temperature": 48.504,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 91.04,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 06:29:30",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 87,
+      "temperature": 48.54999999999996,
+      "wind_avg_mph": 0.008603615384615387,
+      "wind_dir_deg": 231.17307692307693,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 06:38:50",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 87,
+      "temperature": 48.71875000000003,
+      "wind_avg_mph": 0.11184700000000002,
+      "wind_dir_deg": 289.375,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 06:47:06",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 89,
+      "temperature": 48.697872340425505,
+      "wind_avg_mph": 0.5092608085106382,
+      "wind_dir_deg": 131.80851063829786,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 06:55:22",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 90,
+      "temperature": 48.570454545454545,
+      "wind_avg_mph": 1.0371267272727271,
+      "wind_dir_deg": 161.02272727272728,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 07:05:46",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 90,
+      "temperature": 48.7862068965517,
+      "wind_avg_mph": 0.6517980344827582,
+      "wind_dir_deg": 81.63793103448276,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 07:15:54",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 92,
+      "temperature": 48.72909090909094,
+      "wind_avg_mph": 0.809365563636363,
+      "wind_dir_deg": 53.43636363636364,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 07:24:10",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 92,
+      "temperature": 48.81999999999998,
+      "wind_avg_mph": 0.24357791111111113,
+      "wind_dir_deg": 75.62222222222222,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 07:34:34",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 93,
+      "temperature": 48.93157894736844,
+      "wind_avg_mph": 0.4787836491228069,
+      "wind_dir_deg": 76.73684210526316,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 07:44:58",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 94,
+      "temperature": 48.8363636363636,
+      "wind_avg_mph": 1.395037127272726,
+      "wind_dir_deg": 180.6909090909091,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 07:54:18",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 94,
+      "temperature": 48.58979591836732,
+      "wind_avg_mph": 0.4519531836734693,
+      "wind_dir_deg": 79.12244897959184,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 08:03:38",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 95,
+      "temperature": 48.319607843137206,
+      "wind_avg_mph": 0.039475411764705884,
+      "wind_dir_deg": 140.84313725490196,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 08:12:58",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 95,
+      "temperature": 48.10192307692304,
+      "wind_avg_mph": 0.2796175,
+      "wind_dir_deg": 180.26923076923077,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 08:23:22",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 93,
+      "temperature": 48.09821428571423,
+      "wind_avg_mph": 1.2822459642857142,
+      "wind_dir_deg": 148.14285714285714,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 08:32:42",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 90,
+      "temperature": 48.06792452830186,
+      "wind_avg_mph": 1.4814451698113202,
+      "wind_dir_deg": 157.60377358490567,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 08:42:02",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 88,
+      "temperature": 48.11568627450978,
+      "wind_avg_mph": 1.5483133725490184,
+      "wind_dir_deg": 172.86274509803923,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 08:50:18",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 87,
+      "temperature": 48.15333333333332,
+      "wind_avg_mph": 1.0289923999999997,
+      "wind_dir_deg": 127.64444444444445,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 08:58:34",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 86,
+      "temperature": 48.32608695652174,
+      "wind_avg_mph": 0.9482680434782607,
+      "wind_dir_deg": 176.3695652173913,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 09:08:58",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 85,
+      "temperature": 48.3534482758621,
+      "wind_avg_mph": 0.6942227586206893,
+      "wind_dir_deg": 140.79310344827587,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 09:17:14",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 85,
+      "temperature": 48.32222222222222,
+      "wind_avg_mph": 0.7207917777777776,
+      "wind_dir_deg": 186.35555555555555,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 09:26:34",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 84,
+      "temperature": 48.27399999999996,
+      "wind_avg_mph": 0.47870515999999985,
+      "wind_dir_deg": 175.66,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 09:34:50",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 84,
+      "temperature": 48.229545454545466,
+      "wind_avg_mph": 0.08642722727272728,
+      "wind_dir_deg": 217.29545454545453,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 09:45:14",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 85,
+      "temperature": 48.10344827586202,
+      "wind_avg_mph": 0.3818225172413793,
+      "wind_dir_deg": 207.05172413793105,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 09:55:38",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 84,
+      "temperature": 47.75087719298243,
+      "wind_avg_mph": 0.5965173333333332,
+      "wind_dir_deg": 188.68421052631578,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 10:03:54",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 84,
+      "temperature": 47.43404255319153,
+      "wind_avg_mph": 0.5996902978723402,
+      "wind_dir_deg": 170.12765957446808,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 10:13:14",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 83,
+      "temperature": 47.17799999999999,
+      "wind_avg_mph": 0.4518618799999999,
+      "wind_dir_deg": 201.62,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 10:22:34",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 83,
+      "temperature": 47.113999999999976,
+      "wind_avg_mph": 0.16553356,
+      "wind_dir_deg": 167.24,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 10:31:54",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 83,
+      "temperature": 46.62692307692306,
+      "wind_avg_mph": 0.5678386153846152,
+      "wind_dir_deg": 197.67307692307693,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 10:41:14",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 82,
+      "temperature": 46.29807692307691,
+      "wind_avg_mph": 0.21078857692307695,
+      "wind_dir_deg": 198.28846153846155,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 10:51:38",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 82,
+      "temperature": 45.838181818181795,
+      "wind_avg_mph": 0.280634290909091,
+      "wind_dir_deg": 220.92727272727274,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 11:02:02",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 84,
+      "temperature": 45.35263157894739,
+      "wind_avg_mph": 0.054942385964912285,
+      "wind_dir_deg": 246.03508771929825,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 11:11:22",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 86,
+      "temperature": 44.352083333333326,
+      "wind_avg_mph": 0.027961750000000004,
+      "wind_dir_deg": 129.375,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 11:21:46",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 87,
+      "temperature": 43.786206896551725,
+      "wind_avg_mph": 0.574662172413793,
+      "wind_dir_deg": 122.6896551724138,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 11:30:02",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 81,
+      "temperature": 44.74666666666668,
+      "wind_avg_mph": 0.7854144888888889,
+      "wind_dir_deg": 181.17777777777778,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 11:38:18",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 80,
+      "temperature": 45.04565217391305,
+      "wind_avg_mph": 0.14102447826086958,
+      "wind_dir_deg": 155.43478260869566,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 11:47:38",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 82,
+      "temperature": 44.239215686274505,
+      "wind_avg_mph": 0.2500109411764706,
+      "wind_dir_deg": 192.62745098039215,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 11:56:58",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 79,
+      "temperature": 44.567999999999984,
+      "wind_avg_mph": 0.5010745599999998,
+      "wind_dir_deg": 207.42,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 12:06:18",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 79,
+      "temperature": 44.58399999999996,
+      "wind_avg_mph": 0.39817532,
+      "wind_dir_deg": 181.7,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 12:16:42",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 78,
+      "temperature": 44.8105263157895,
+      "wind_avg_mph": 0.855531438596491,
+      "wind_dir_deg": 196.82456140350877,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 12:27:06",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 77,
+      "temperature": 44.842857142857135,
+      "wind_avg_mph": 0.6071694285714282,
+      "wind_dir_deg": 234.25,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 12:36:10",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 77,
+      "temperature": 44.73000000000001,
+      "wind_avg_mph": 0.97083196,
+      "wind_dir_deg": 228.38,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 12:44:26",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 77,
+      "temperature": 44.81956521739129,
+      "wind_avg_mph": 0.505742956521739,
+      "wind_dir_deg": 187.2608695652174,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 12:52:42",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 79,
+      "temperature": 44.315555555555555,
+      "wind_avg_mph": 0.41259115555555553,
+      "wind_dir_deg": 186.26666666666668,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 13:03:06",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 80,
+      "temperature": 44.01929824561401,
+      "wind_avg_mph": 0.2629385614035088,
+      "wind_dir_deg": 181.87719298245614,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 13:11:38",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 80,
+      "temperature": 43.539999999999985,
+      "wind_avg_mph": 0.18889715555555556,
+      "wind_dir_deg": 117.04444444444445,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 13:20:58",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 80,
+      "temperature": 43.33921568627451,
+      "wind_avg_mph": 0.06140619607843138,
+      "wind_dir_deg": 150.41176470588235,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 13:31:22",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 83,
+      "temperature": 42.63793103448274,
+      "wind_avg_mph": 0.10413341379310347,
+      "wind_dir_deg": 245.94827586206895,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 13:41:46",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 84,
+      "temperature": 41.85714285714285,
+      "wind_avg_mph": 0.019972678571428572,
+      "wind_dir_deg": 197.89285714285714,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 13:50:02",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 86,
+      "temperature": 41.28666666666666,
+      "wind_avg_mph": 0.0695936888888889,
+      "wind_dir_deg": 274.55555555555554,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 13:58:18",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 87,
+      "temperature": 40.77555555555552,
+      "wind_avg_mph": 0.23363595555555558,
+      "wind_dir_deg": 237.88888888888889,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 14:06:34",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 88,
+      "temperature": 40.57333333333334,
+      "wind_avg_mph": 0.2734037777777778,
+      "wind_dir_deg": 287.9111111111111,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 14:14:50",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 89,
+      "temperature": 40.22926829268295,
+      "wind_avg_mph": 0.3764606341463415,
+      "wind_dir_deg": 289.3658536585366,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 14:24:10",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 88,
+      "temperature": 40.35384615384619,
+      "wind_avg_mph": 0.9550013076923076,
+      "wind_dir_deg": 278.75,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 14:34:34",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 88,
+      "temperature": 40.265454545454546,
+      "wind_avg_mph": 1.0289924,
+      "wind_dir_deg": 276.56363636363636,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 14:44:42",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 88,
+      "temperature": 40.122807017543835,
+      "wind_avg_mph": 0.7260243859649116,
+      "wind_dir_deg": 287.6666666666667,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 14:54:02",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 89,
+      "temperature": 39.649999999999984,
+      "wind_avg_mph": 0.2753156923076924,
+      "wind_dir_deg": 306.34615384615387,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 15:02:34",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 90,
+      "temperature": 39.4063829787234,
+      "wind_avg_mph": 0.4711852340425528,
+      "wind_dir_deg": 293.8510638297872,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 15:11:54",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 91,
+      "temperature": 39.02400000000001,
+      "wind_avg_mph": 0.08500372,
+      "wind_dir_deg": 293.12,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 15:20:10",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 91,
+      "temperature": 38.642222222222216,
+      "wind_avg_mph": 0.02485488888888889,
+      "wind_dir_deg": 262.75555555555553,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 15:29:30",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 92,
+      "temperature": 38.21199999999998,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 285.62,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 15:37:46",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 92,
+      "temperature": 38.07608695652173,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 297.2826086956522,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 15:46:03",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 93,
+      "temperature": 37.82380952380951,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 114.04761904761905,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 15:56:27",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 93,
+      "temperature": 37.79298245614034,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 281.280701754386,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 16:06:35",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 93,
+      "temperature": 38.229090909090935,
+      "wind_avg_mph": 0.016268654545454547,
+      "wind_dir_deg": 269.03636363636366,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 16:15:55",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 92,
+      "temperature": 38.96274509803921,
+      "wind_avg_mph": 0.08772313725490197,
+      "wind_dir_deg": 244.80392156862746,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 16:25:15",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 90,
+      "temperature": 40.31800000000001,
+      "wind_avg_mph": 0.09395148,
+      "wind_dir_deg": 273.66,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 16:33:31",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 87,
+      "temperature": 41.28636363636365,
+      "wind_avg_mph": 0.2440298181818182,
+      "wind_dir_deg": 206.36363636363637,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 16:42:35",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 85,
+      "temperature": 41.9408163265306,
+      "wind_avg_mph": 0.29217175510204085,
+      "wind_dir_deg": 172.08163265306123,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 16:53:15",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 83,
+      "temperature": 42.83392857142858,
+      "wind_avg_mph": 0.2436666785714286,
+      "wind_dir_deg": 189.10714285714286,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 17:02:35",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 80,
+      "temperature": 43.611999999999995,
+      "wind_avg_mph": 0.64423872,
+      "wind_dir_deg": 117.96,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 17:12:59",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 78,
+      "temperature": 44.43636363636366,
+      "wind_avg_mph": 0.5043282909090906,
+      "wind_dir_deg": 211.63636363636363,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 17:23:23",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 76,
+      "temperature": 45.0142857142857,
+      "wind_avg_mph": 0.4913278928571427,
+      "wind_dir_deg": 199.41071428571428,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 17:33:31",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 73,
+      "temperature": 46.20566037735852,
+      "wind_avg_mph": 0.725950339622641,
+      "wind_dir_deg": 215.62264150943398,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 17:43:55",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 73,
+      "temperature": 46.93035714285719,
+      "wind_avg_mph": 0.5472513928571425,
+      "wind_dir_deg": 178.32142857142858,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 17:54:19",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 73,
+      "temperature": 47.24444444444447,
+      "wind_avg_mph": 0.6337996666666663,
+      "wind_dir_deg": 196.83333333333334,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 18:03:39",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 72,
+      "temperature": 47.71000000000001,
+      "wind_avg_mph": 0.46080963999999985,
+      "wind_dir_deg": 140.24,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 18:12:59",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 68,
+      "temperature": 48.162745098039245,
+      "wind_avg_mph": 0.973726823529411,
+      "wind_dir_deg": 194.98039215686273,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 18:23:23",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 65,
+      "temperature": 48.720754716981155,
+      "wind_avg_mph": 1.1142493584905655,
+      "wind_dir_deg": 196.8490566037736,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 18:31:39",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 65,
+      "temperature": 49.267391304347846,
+      "wind_avg_mph": 1.157373304347826,
+      "wind_dir_deg": 222.19565217391303,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 18:42:03",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 66,
+      "temperature": 49.82000000000002,
+      "wind_avg_mph": 0.488059636363636,
+      "wind_dir_deg": 191,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 18:50:19",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 64,
+      "temperature": 50.2232558139535,
+      "wind_avg_mph": 1.3109508837209298,
+      "wind_dir_deg": 184.65116279069767,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 19:00:43",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 61,
+      "temperature": 50.633928571428605,
+      "wind_avg_mph": 0.8428470357142857,
+      "wind_dir_deg": 169.23214285714286,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 19:09:47",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 58,
+      "temperature": 50.916000000000004,
+      "wind_avg_mph": 1.20347372,
+      "wind_dir_deg": 153.94,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 19:19:23",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 56,
+      "temperature": 51.243137254901946,
+      "wind_avg_mph": 1.2018069803921565,
+      "wind_dir_deg": 174.11764705882354,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 19:27:39",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 55,
+      "temperature": 51.98604651162787,
+      "wind_avg_mph": 0.8427541395348833,
+      "wind_dir_deg": 225.51162790697674,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 19:35:55",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 54,
+      "temperature": 52.25111111111112,
+      "wind_avg_mph": 1.0488763111111108,
+      "wind_dir_deg": 163.17777777777778,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 19:44:11",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 53,
+      "temperature": 52.547619047619,
+      "wind_avg_mph": 1.1983607142857142,
+      "wind_dir_deg": 231.64285714285714,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 19:54:35",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 53,
+      "temperature": 52.86730769230768,
+      "wind_avg_mph": 0.7054964615384611,
+      "wind_dir_deg": 158.42307692307693,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 20:03:55",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 50,
+      "temperature": 53.506122448979546,
+      "wind_avg_mph": 1.4425980408163261,
+      "wind_dir_deg": 139.6530612244898,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 20:12:11",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 48,
+      "temperature": 53.94146341463416,
+      "wind_avg_mph": 1.7240805853658538,
+      "wind_dir_deg": 207.21951219512195,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 20:20:27",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 46,
+      "temperature": 55.666666666666664,
+      "wind_avg_mph": 1.1184699999999996,
+      "wind_dir_deg": 181.8,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 20:28:43",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 46,
+      "temperature": 56.40000000000001,
+      "wind_avg_mph": 1.546406347826087,
+      "wind_dir_deg": 206.2173913043478,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 20:36:59",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 44,
+      "temperature": 56.57608695652174,
+      "wind_avg_mph": 1.410244782608696,
+      "wind_dir_deg": 171.1086956521739,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 20:46:19",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 42,
+      "temperature": 57.579999999999984,
+      "wind_avg_mph": 1.8790295999999997,
+      "wind_dir_deg": 219.62,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 20:56:43",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 42,
+      "temperature": 58.93636363636362,
+      "wind_avg_mph": 1.5089177090909083,
+      "wind_dir_deg": 141.96363636363637,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 21:06:03",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 39,
+      "temperature": 59.96938775510207,
+      "wind_avg_mph": 1.469989142857142,
+      "wind_dir_deg": 192.59183673469389,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 21:15:23",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 39,
+      "temperature": 59.86078431372552,
+      "wind_avg_mph": 1.5790164705882348,
+      "wind_dir_deg": 192.1764705882353,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 21:24:43",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 38,
+      "temperature": 60.415217391304324,
+      "wind_avg_mph": 1.794414913043478,
+      "wind_dir_deg": 200.80434782608697,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 21:34:03",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 37,
+      "temperature": 60.00188679245284,
+      "wind_avg_mph": 1.688256603773585,
+      "wind_dir_deg": 208.41509433962264,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 21:42:19",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 36,
+      "temperature": 60.98260869565218,
+      "wind_avg_mph": 1.7068824782608691,
+      "wind_dir_deg": 158.19565217391303,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 21:51:39",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 34,
+      "temperature": 60.498039215686276,
+      "wind_avg_mph": 1.7500765882352938,
+      "wind_dir_deg": 189.7450980392157,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 21:59:55",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 34,
+      "temperature": 61.553333333333306,
+      "wind_avg_mph": 1.2526863999999995,
+      "wind_dir_deg": 196.64444444444445,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 22:10:19",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 32,
+      "temperature": 60.42727272727275,
+      "wind_avg_mph": 2.110857927272727,
+      "wind_dir_deg": 179.6727272727273,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 22:18:35",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 33,
+      "temperature": 60,
+      "wind_avg_mph": 2.008275022222221,
+      "wind_dir_deg": 190.2,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 22:28:59",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 34,
+      "temperature": 61.05263157894737,
+      "wind_avg_mph": 1.196959122807017,
+      "wind_dir_deg": 180.52631578947367,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 22:37:15",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 33,
+      "temperature": 62.49772727272725,
+      "wind_avg_mph": 1.10830209090909,
+      "wind_dir_deg": 180.45454545454547,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 22:45:31",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 33,
+      "temperature": 62.78139534883719,
+      "wind_avg_mph": 1.2069071627906978,
+      "wind_dir_deg": 167.51162790697674,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 22:54:51",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 31,
+      "temperature": 62.71428571428573,
+      "wind_avg_mph": 1.0499922448979588,
+      "wind_dir_deg": 148.9591836734694,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 23:05:15",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 33,
+      "temperature": 62.694915254237266,
+      "wind_avg_mph": 0.8075732542372879,
+      "wind_dir_deg": 151.77966101694915,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 23:13:31",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 33,
+      "temperature": 63.24222222222225,
+      "wind_avg_mph": 0.8400952444444443,
+      "wind_dir_deg": 112.84444444444445,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 23:22:51",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 30,
+      "temperature": 62.490384615384606,
+      "wind_avg_mph": 1.0668483076923074,
+      "wind_dir_deg": 168.32692307692307,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 23:33:15",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 30,
+      "temperature": 62.40545454545454,
+      "wind_avg_mph": 1.0086565818181812,
+      "wind_dir_deg": 209.98181818181817,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 23:42:35",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 30,
+      "temperature": 61.496,
+      "wind_avg_mph": 0.9932013599999998,
+      "wind_dir_deg": 150.88,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-08 23:51:55",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 31,
+      "temperature": 61.05918367346939,
+      "wind_avg_mph": 1.0682529795918365,
+      "wind_dir_deg": 150.20408163265307,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 00:00:11",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 31,
+      "temperature": 59.986956521739124,
+      "wind_avg_mph": 1.1476474782608694,
+      "wind_dir_deg": 163.1304347826087,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 00:08:27",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 33,
+      "temperature": 58.79767441860466,
+      "wind_avg_mph": 0.7126994883720927,
+      "wind_dir_deg": 185.72093023255815,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 00:16:43",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 35,
+      "temperature": 56.751111111111136,
+      "wind_avg_mph": 0.6114302666666664,
+      "wind_dir_deg": 200.75555555555556,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 00:27:07",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 37,
+      "temperature": 54.177777777777735,
+      "wind_avg_mph": 0.7332192222222221,
+      "wind_dir_deg": 159.2037037037037,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 00:36:27",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 40,
+      "temperature": 52.89800000000003,
+      "wind_avg_mph": 0.34896264000000005,
+      "wind_dir_deg": 122.86,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 00:45:47",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 41,
+      "temperature": 51.7063829787234,
+      "wind_avg_mph": 0.2808073617021277,
+      "wind_dir_deg": 122.87234042553192,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 00:56:11",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 44,
+      "temperature": 50.73035714285716,
+      "wind_avg_mph": 0.2436666785714286,
+      "wind_dir_deg": 95.10714285714286,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 01:04:27",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 46,
+      "temperature": 49.973170731707356,
+      "wind_avg_mph": 0.33281302439024396,
+      "wind_dir_deg": 84.29268292682927,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 01:13:47",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 47,
+      "temperature": 49.270588235294106,
+      "wind_avg_mph": 0.13158470588235296,
+      "wind_dir_deg": 113.13725490196079,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 01:24:11",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 49,
+      "temperature": 48.46964285714283,
+      "wind_avg_mph": 0.11184700000000002,
+      "wind_dir_deg": 85.10714285714286,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 01:32:27",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 51,
+      "temperature": 47.75217391304346,
+      "wind_avg_mph": 0.1507503043478261,
+      "wind_dir_deg": 62.43478260869565,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 01:40:43",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 51,
+      "temperature": 47.63023255813953,
+      "wind_avg_mph": 0.42137706976744194,
+      "wind_dir_deg": 106,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 01:50:03",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 50,
+      "temperature": 47.84905660377358,
+      "wind_avg_mph": 0.46427056603773575,
+      "wind_dir_deg": 134.16981132075472,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 02:00:11",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 51,
+      "temperature": 47.32321428571428,
+      "wind_avg_mph": 0.7589617857142853,
+      "wind_dir_deg": 70.69642857142857,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 02:09:47",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 52,
+      "temperature": 47.07346938775509,
+      "wind_avg_mph": 0.6026042448979589,
+      "wind_dir_deg": 118.51020408163265,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 02:18:03",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 53,
+      "temperature": 46.61555555555554,
+      "wind_avg_mph": 0.9544277333333331,
+      "wind_dir_deg": 84.13333333333334,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 02:27:23",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 58,
+      "temperature": 45.73999999999998,
+      "wind_avg_mph": 0.5950260399999996,
+      "wind_dir_deg": 98.22,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 02:36:27",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 62,
+      "temperature": 44.56122448979591,
+      "wind_avg_mph": 0.03652146938775511,
+      "wind_dir_deg": 163.26530612244898,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 02:47:07",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 62,
+      "temperature": 43.927272727272744,
+      "wind_avg_mph": 0.1870895272727273,
+      "wind_dir_deg": 223.0909090909091,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 02:56:27",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 51,
+      "temperature": 46.108163265306125,
+      "wind_avg_mph": 1.57042318367347,
+      "wind_dir_deg": 258.0612244897959,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 03:06:51",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 50,
+      "temperature": 46.96909090909094,
+      "wind_avg_mph": 1.1103356727272726,
+      "wind_dir_deg": 267.7818181818182,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 03:15:55",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 50,
+      "temperature": 46.643137254901966,
+      "wind_avg_mph": 0.8772313725490196,
+      "wind_dir_deg": 263.27450980392155,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 03:25:31",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 45,
+      "temperature": 47.98269230769234,
+      "wind_avg_mph": 2.3573906153846154,
+      "wind_dir_deg": 279.75,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 03:34:19",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 45,
+      "temperature": 48.284444444444425,
+      "wind_avg_mph": 2.3115046666666657,
+      "wind_dir_deg": 256.8666666666667,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 03:44:43",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 44,
+      "temperature": 48.45438596491229,
+      "wind_avg_mph": 2.201619894736842,
+      "wind_dir_deg": 241.42105263157896,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 03:52:59",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 44,
+      "temperature": 48.739534883720914,
+      "wind_avg_mph": 1.773945441860465,
+      "wind_dir_deg": 268.16279069767444,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 04:03:23",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 45,
+      "temperature": 48.317241379310346,
+      "wind_avg_mph": 1.7509840689655174,
+      "wind_dir_deg": 255.6551724137931,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 04:12:43",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 44,
+      "temperature": 48.46595744680853,
+      "wind_avg_mph": 2.3511667234042544,
+      "wind_dir_deg": 278.06382978723406,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 04:22:03",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 44,
+      "temperature": 48.20392156862744,
+      "wind_avg_mph": 2.302732352941176,
+      "wind_dir_deg": 263.6666666666667,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 04:30:19",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 43,
+      "temperature": 48.54130434782608,
+      "wind_avg_mph": 1.9840685217391294,
+      "wind_dir_deg": 245.91304347826087,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 04:39:39",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 43,
+      "temperature": 48.31399999999999,
+      "wind_avg_mph": 2.51432056,
+      "wind_dir_deg": 277.68,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 04:50:03",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 43,
+      "temperature": 48.62727272727272,
+      "wind_avg_mph": 2.794141418181818,
+      "wind_dir_deg": 270.3272727272727,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 04:58:03",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 43,
+      "temperature": 48.843181818181826,
+      "wind_avg_mph": 2.079337409090908,
+      "wind_dir_deg": 250.20454545454547,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 05:07:39",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 45,
+      "temperature": 48.164705882352955,
+      "wind_avg_mph": 1.2061931372549015,
+      "wind_dir_deg": 187.41176470588235,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 05:16:11",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 44,
+      "temperature": 48.142553191489384,
+      "wind_avg_mph": 1.5658579999999993,
+      "wind_dir_deg": 141.06382978723406,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 05:24:27",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 43,
+      "temperature": 48.52222222222221,
+      "wind_avg_mph": 2.3214466222222234,
+      "wind_dir_deg": 134.77777777777777,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 05:32:59",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 45,
+      "temperature": 48.008510638297885,
+      "wind_avg_mph": 0.9994838297872335,
+      "wind_dir_deg": 100.97872340425532,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 05:43:07",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 50,
+      "temperature": 46.58245614035087,
+      "wind_avg_mph": 0.8790781754385957,
+      "wind_dir_deg": 94.64912280701755,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 05:51:23",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 49,
+      "temperature": 46.028260869565244,
+      "wind_avg_mph": 1.210865347826087,
+      "wind_dir_deg": 107.78260869565217,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 06:00:43",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 49,
+      "temperature": 46.11698113207548,
+      "wind_avg_mph": 0.434726075471698,
+      "wind_dir_deg": 164.8490566037736,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 06:11:07",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 52,
+      "temperature": 45.43454545454545,
+      "wind_avg_mph": 0.4758581454545454,
+      "wind_dir_deg": 119.54545454545455,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 06:20:27",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 58,
+      "temperature": 43.98235294117648,
+      "wind_avg_mph": 0.42545721568627454,
+      "wind_dir_deg": 215.94117647058823,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 06:28:59",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 60,
+      "temperature": 43.21875,
+      "wind_avg_mph": 0.25165575,
+      "wind_dir_deg": 198.64583333333334,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 06:37:15",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 62,
+      "temperature": 42.615555555555574,
+      "wind_avg_mph": 0.3529394222222223,
+      "wind_dir_deg": 187.84444444444443,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 06:46:35",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 62,
+      "temperature": 42.27924528301884,
+      "wind_avg_mph": 0.7597154716981127,
+      "wind_dir_deg": 256.9811320754717,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 06:56:59",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 63,
+      "temperature": 41.97272727272731,
+      "wind_avg_mph": 0.5856715636363635,
+      "wind_dir_deg": 245.70909090909092,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 07:07:23",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 64,
+      "temperature": 41.750847457627096,
+      "wind_avg_mph": 0.36397667796610156,
+      "wind_dir_deg": 280.8813559322034,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 07:16:43",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 64,
+      "temperature": 41.729999999999976,
+      "wind_avg_mph": 0.9350409199999996,
+      "wind_dir_deg": 282.6,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 07:27:07",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 64,
+      "temperature": 41.747368421052656,
+      "wind_avg_mph": 0.9732651228070169,
+      "wind_dir_deg": 290.0877192982456,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 07:35:39",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 66,
+      "temperature": 41.280851063829786,
+      "wind_avg_mph": 0.537817489361702,
+      "wind_dir_deg": 276.8723404255319,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 07:44:59",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 66,
+      "temperature": 41.078431372549005,
+      "wind_avg_mph": 0.8728452156862742,
+      "wind_dir_deg": 271.3137254901961,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 07:54:19",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 66,
+      "temperature": 41.11176470588235,
+      "wind_avg_mph": 1.3202332156862742,
+      "wind_dir_deg": 271.5098039215686,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 08:03:55",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 67,
+      "temperature": 40.86037735849057,
+      "wind_avg_mph": 0.8145838113207544,
+      "wind_dir_deg": 260.41509433962267,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 08:13:15",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 67,
+      "temperature": 40.742307692307705,
+      "wind_avg_mph": 1.505632692307692,
+      "wind_dir_deg": 276.90384615384613,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 08:22:35",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 68,
+      "temperature": 40.61428571428569,
+      "wind_avg_mph": 1.8260734693877554,
+      "wind_dir_deg": 270.53061224489795,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 08:32:59",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 67,
+      "temperature": 40.61754385964914,
+      "wind_avg_mph": 1.828796561403509,
+      "wind_dir_deg": 273.57894736842104,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 08:41:31",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 69,
+      "temperature": 40.18333333333332,
+      "wind_avg_mph": 0.8481730833333333,
+      "wind_dir_deg": 212.89583333333334,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 08:50:03",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 70,
+      "temperature": 39.897916666666674,
+      "wind_avg_mph": 1.1790537916666668,
+      "wind_dir_deg": 250.41666666666666,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 09:00:27",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 69,
+      "temperature": 40.10714285714287,
+      "wind_avg_mph": 1.5099345000000004,
+      "wind_dir_deg": 278.07142857142856,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 09:10:35",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 68,
+      "temperature": 39.98113207547167,
+      "wind_avg_mph": 1.3041782264150943,
+      "wind_dir_deg": 279.6792452830189,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 09:18:51",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 68,
+      "temperature": 40.10444444444444,
+      "wind_avg_mph": 1.3371930222222221,
+      "wind_dir_deg": 280.55555555555554,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 09:27:23",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 70,
+      "temperature": 39.81874999999999,
+      "wind_avg_mph": 0.964680375,
+      "wind_dir_deg": 273.8541666666667,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 09:35:39",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 71,
+      "temperature": 39.565957446808504,
+      "wind_avg_mph": 0.4997419148936168,
+      "wind_dir_deg": 289.29787234042556,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 09:44:59",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 73,
+      "temperature": 39.10399999999998,
+      "wind_avg_mph": 0.782929,
+      "wind_dir_deg": 254.18,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 09:54:19",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 74,
+      "temperature": 38.926,
+      "wind_avg_mph": 0.9395148000000002,
+      "wind_dir_deg": 261.04,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 10:04:43",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 75,
+      "temperature": 38.698245614035066,
+      "wind_avg_mph": 0.6475352631578947,
+      "wind_dir_deg": 269,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 10:14:03",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 75,
+      "temperature": 38.649056603773566,
+      "wind_avg_mph": 0.5318008301886792,
+      "wind_dir_deg": 272.811320754717,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 10:24:27",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 73,
+      "temperature": 38.85925925925927,
+      "wind_avg_mph": 0.9776256296296296,
+      "wind_dir_deg": 253.14814814814815,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 10:33:47",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 70,
+      "temperature": 39.60754716981131,
+      "wind_avg_mph": 0.5740072452830186,
+      "wind_dir_deg": 282.8867924528302,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 10:42:51",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 69,
+      "temperature": 40.021999999999984,
+      "wind_avg_mph": 0.8813543599999997,
+      "wind_dir_deg": 280,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 10:53:31",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 67,
+      "temperature": 40.33571428571428,
+      "wind_avg_mph": 1.110480928571428,
+      "wind_dir_deg": 281.80357142857144,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 11:02:51",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 68,
+      "temperature": 40.300000000000004,
+      "wind_avg_mph": 0.7485145384615381,
+      "wind_dir_deg": 190.67307692307693,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 11:12:11",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 68,
+      "temperature": 40.138,
+      "wind_avg_mph": 0.5681827599999999,
+      "wind_dir_deg": 242.84,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 11:22:35",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 67,
+      "temperature": 40.11724137931034,
+      "wind_avg_mph": 0.3509681724137928,
+      "wind_dir_deg": 241.86206896551724,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 11:32:59",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 68,
+      "temperature": 39.86250000000002,
+      "wind_avg_mph": 0.3994535714285713,
+      "wind_dir_deg": 299.7142857142857,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 11:43:07",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 70,
+      "temperature": 39.53684210526317,
+      "wind_avg_mph": 0.5180282105263156,
+      "wind_dir_deg": 275.0877192982456,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 11:51:23",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 71,
+      "temperature": 39.28913043478261,
+      "wind_avg_mph": 0.3598555652173913,
+      "wind_dir_deg": 253.97826086956522,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 12:01:47",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 71,
+      "temperature": 39.28103448275859,
+      "wind_avg_mph": 0.7366474827586207,
+      "wind_dir_deg": 286.62068965517244,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 12:10:19",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 71,
+      "temperature": 39.121739130434776,
+      "wind_avg_mph": 0.5592349999999999,
+      "wind_dir_deg": 258.32608695652175,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 12:18:35",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 72,
+      "temperature": 38.940909090909095,
+      "wind_avg_mph": 0.767677136363636,
+      "wind_dir_deg": 207.52272727272728,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 12:27:07",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 72,
+      "temperature": 38.84666666666665,
+      "wind_avg_mph": 0.3479684444444445,
+      "wind_dir_deg": 244.95555555555555,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 12:37:31",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 73,
+      "temperature": 38.47543859649124,
+      "wind_avg_mph": 0.6004417894736839,
+      "wind_dir_deg": 282.1578947368421,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 12:45:47",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 70,
+      "temperature": 38.84318181818182,
+      "wind_avg_mph": 0.6914178181818179,
+      "wind_dir_deg": 281.8636363636364,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 12:56:11",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 69,
+      "temperature": 39.24545454545456,
+      "wind_avg_mph": 0.7971640727272726,
+      "wind_dir_deg": 268.6909090909091,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 13:05:31",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 68,
+      "temperature": 39.42156862745099,
+      "wind_avg_mph": 0.4210710588235293,
+      "wind_dir_deg": 216.37254901960785,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 13:14:03",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 68,
+      "temperature": 39.20212765957447,
+      "wind_avg_mph": 0.6330064255319148,
+      "wind_dir_deg": 277.29787234042556,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 13:22:19",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 70,
+      "temperature": 39.006818181818204,
+      "wind_avg_mph": 0.681249909090909,
+      "wind_dir_deg": 285.29545454545456,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 13:31:39",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 70,
+      "temperature": 38.903999999999996,
+      "wind_avg_mph": 0.5592349999999997,
+      "wind_dir_deg": 281.3,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 13:40:59",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 71,
+      "temperature": 38.476923076923086,
+      "wind_avg_mph": 0.25380665384615386,
+      "wind_dir_deg": 262.9423076923077,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 13:49:31",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 72,
+      "temperature": 38.220833333333346,
+      "wind_avg_mph": 0.43340712499999995,
+      "wind_dir_deg": 215.52083333333334,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 13:59:39",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 72,
+      "temperature": 38.09107142857141,
+      "wind_avg_mph": 0.6231475714285712,
+      "wind_dir_deg": 254.71428571428572,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 14:10:03",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 73,
+      "temperature": 37.98545454545457,
+      "wind_avg_mph": 0.47179098181818174,
+      "wind_dir_deg": 290.1272727272727,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 14:19:23",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 73,
+      "temperature": 37.87884615384615,
+      "wind_avg_mph": 0.5377259615384613,
+      "wind_dir_deg": 297.1923076923077,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 14:27:39",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 73,
+      "temperature": 37.833333333333314,
+      "wind_avg_mph": 0.3429974666666667,
+      "wind_dir_deg": 269.8222222222222,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 14:38:03",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 74,
+      "temperature": 37.79482758620688,
+      "wind_avg_mph": 0.45124479310344817,
+      "wind_dir_deg": 261.9655172413793,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 14:47:23",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 73,
+      "temperature": 37.76078431372551,
+      "wind_avg_mph": 0.4824772549019607,
+      "wind_dir_deg": 283.72549019607845,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 14:57:47",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 73,
+      "temperature": 37.88620689655174,
+      "wind_avg_mph": 0.478242344827586,
+      "wind_dir_deg": 256.0344827586207,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 15:07:07",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 71,
+      "temperature": 38.22941176470588,
+      "wind_avg_mph": 0.38159564705882354,
+      "wind_dir_deg": 264.3137254901961,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 15:17:31",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 66,
+      "temperature": 39.46610169491529,
+      "wind_avg_mph": 0.4853022372881353,
+      "wind_dir_deg": 243.5084745762712,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 15:27:56",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 66,
+      "temperature": 39.60862068965516,
+      "wind_avg_mph": 0.0809926551724138,
+      "wind_dir_deg": 237.56896551724137,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 15:38:04",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 67,
+      "temperature": 39.53928571428572,
+      "wind_avg_mph": 0.3395355357142856,
+      "wind_dir_deg": 228.64285714285714,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 15:48:28",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 68,
+      "temperature": 39.26842105263161,
+      "wind_avg_mph": 0.08633803508771931,
+      "wind_dir_deg": 185.78947368421052,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 15:57:48",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 65,
+      "temperature": 39.93137254901962,
+      "wind_avg_mph": 0.22808015686274513,
+      "wind_dir_deg": 119.52941176470588,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 16:08:12",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 61,
+      "temperature": 41.530508474576266,
+      "wind_avg_mph": 0.3715595254237286,
+      "wind_dir_deg": 240.8135593220339,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 16:17:32",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 60,
+      "temperature": 42.260784313725495,
+      "wind_avg_mph": 0.267555568627451,
+      "wind_dir_deg": 246.76470588235293,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 16:27:56",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 62,
+      "temperature": 41.9362068965517,
+      "wind_avg_mph": 0.16584210344827588,
+      "wind_dir_deg": 257.5689655172414,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 16:38:20",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 61,
+      "temperature": 42.667857142857144,
+      "wind_avg_mph": 0.3834754285714285,
+      "wind_dir_deg": 277.875,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 16:48:44",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 61,
+      "temperature": 43.257627118644116,
+      "wind_avg_mph": 0.26919108474576275,
+      "wind_dir_deg": 243.64406779661016,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 16:57:48",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 60,
+      "temperature": 43.79607843137252,
+      "wind_avg_mph": 0.39914027450980394,
+      "wind_dir_deg": 255.05882352941177,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 17:07:24",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 59,
+      "temperature": 44.36346153846155,
+      "wind_avg_mph": 0.2365994230769231,
+      "wind_dir_deg": 195.84615384615384,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 17:16:44",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 57,
+      "temperature": 45.47692307692304,
+      "wind_avg_mph": 0.7356091153846152,
+      "wind_dir_deg": 131.34615384615384,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 17:26:04",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 56,
+      "temperature": 46.264150943396245,
+      "wind_avg_mph": 0.7048471320754714,
+      "wind_dir_deg": 161.64150943396226,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 17:35:24",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 55,
+      "temperature": 47.27450980392157,
+      "wind_avg_mph": 1.4737487058823524,
+      "wind_dir_deg": 113.47058823529412,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 17:44:44",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 53,
+      "temperature": 48.34716981132073,
+      "wind_avg_mph": 1.8064345660377354,
+      "wind_dir_deg": 104.32075471698113,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 17:55:08",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 52,
+      "temperature": 49.1017857142857,
+      "wind_avg_mph": 0.5832022142857137,
+      "wind_dir_deg": 177.08928571428572,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 18:03:24",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 51,
+      "temperature": 49.7,
+      "wind_avg_mph": 0.6127270434782605,
+      "wind_dir_deg": 148.56521739130434,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 18:12:44",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 50,
+      "temperature": 50.09600000000001,
+      "wind_avg_mph": 0.4921267999999999,
+      "wind_dir_deg": 264.3,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 18:22:04",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 47,
+      "temperature": 50.86226415094341,
+      "wind_avg_mph": 0.4009609433962264,
+      "wind_dir_deg": 205.71698113207546,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 18:32:28",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 43,
+      "temperature": 51.88793103448279,
+      "wind_avg_mph": 0.5669485862068965,
+      "wind_dir_deg": 124.96551724137932,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 18:42:52",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 37,
+      "temperature": 53.03448275862069,
+      "wind_avg_mph": 1.2611713448275856,
+      "wind_dir_deg": 170.01724137931035,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 18:51:24",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 37,
+      "temperature": 53.40851063829789,
+      "wind_avg_mph": 1.3564423404255321,
+      "wind_dir_deg": 80.91489361702128,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 18:59:40",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 34,
+      "temperature": 53.713043478260865,
+      "wind_avg_mph": 1.405381869565217,
+      "wind_dir_deg": 163.5,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 19:09:00",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 35,
+      "temperature": 53.86346153846154,
+      "wind_avg_mph": 1.0496410769230764,
+      "wind_dir_deg": 129.1346153846154,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 19:19:24",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 35,
+      "temperature": 54.31607142857143,
+      "wind_avg_mph": 1.5219181071428571,
+      "wind_dir_deg": 116.44642857142857,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 19:27:56",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 34,
+      "temperature": 54.743749999999984,
+      "wind_avg_mph": 1.1417714583333334,
+      "wind_dir_deg": 142.1875,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 19:38:20",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 35,
+      "temperature": 55.242372881355976,
+      "wind_avg_mph": 1.3042497627118643,
+      "wind_dir_deg": 122.52542372881356,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 19:48:28",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 34,
+      "temperature": 55.565454545454536,
+      "wind_avg_mph": 1.1754102909090904,
+      "wind_dir_deg": 169.03636363636363,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 19:58:52",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 33,
+      "temperature": 55.61379310344828,
+      "wind_avg_mph": 1.3383072068965516,
+      "wind_dir_deg": 154.70689655172413,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 20:08:12",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 34,
+      "temperature": 56.14716981132076,
+      "wind_avg_mph": 0.8947759999999997,
+      "wind_dir_deg": 118.20754716981132,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 20:17:32",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 32,
+      "temperature": 57.3403846153846,
+      "wind_avg_mph": 0.9808121538461534,
+      "wind_dir_deg": 229.42307692307693,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 20:27:56",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 31,
+      "temperature": 58.6237288135593,
+      "wind_avg_mph": 1.334581152542373,
+      "wind_dir_deg": 185.40677966101694,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 20:36:12",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 30,
+      "temperature": 59.80434782608694,
+      "wind_avg_mph": 1.0941554347826083,
+      "wind_dir_deg": 181.1086956521739,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 20:45:32",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 29,
+      "temperature": 60.883018867924555,
+      "wind_avg_mph": 1.240868603773585,
+      "wind_dir_deg": 208.0566037735849,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 20:55:56",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 29,
+      "temperature": 61.07758620689656,
+      "wind_avg_mph": 1.4231566551724135,
+      "wind_dir_deg": 241.22413793103448,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 21:05:16",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 29,
+      "temperature": 61.48301886792454,
+      "wind_avg_mph": 1.7979932830188678,
+      "wind_dir_deg": 193.45283018867926,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 21:14:36",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 29,
+      "temperature": 60.95769230769233,
+      "wind_avg_mph": 2.000340576923077,
+      "wind_dir_deg": 258.9230769230769,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 21:25:00",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 28,
+      "temperature": 61.80508474576274,
+      "wind_avg_mph": 1.7023492542372876,
+      "wind_dir_deg": 211.5593220338983,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 21:35:24",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 28,
+      "temperature": 62.781034482758635,
+      "wind_avg_mph": 1.0529045172413793,
+      "wind_dir_deg": 208.94827586206895,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 21:43:56",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 27,
+      "temperature": 64.57659574468086,
+      "wind_avg_mph": 1.1470266808510634,
+      "wind_dir_deg": 216.74468085106383,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 21:52:12",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 27,
+      "temperature": 64.10909090909091,
+      "wind_avg_mph": 1.4438430909090907,
+      "wind_dir_deg": 180.29545454545453,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 22:00:44",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 27,
+      "temperature": 63.774999999999984,
+      "wind_avg_mph": 1.2070155416666661,
+      "wind_dir_deg": 212.1875,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 22:10:04",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 27,
+      "temperature": 63.84600000000003,
+      "wind_avg_mph": 1.3913766800000003,
+      "wind_dir_deg": 187.36,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 22:20:28",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 28,
+      "temperature": 63.68965517241378,
+      "wind_avg_mph": 1.1416107586206892,
+      "wind_dir_deg": 209.8448275862069,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 22:28:44",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 28,
+      "temperature": 62.65652173913043,
+      "wind_avg_mph": 1.7263341304347832,
+      "wind_dir_deg": 217.02173913043478,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 22:38:04",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 27,
+      "temperature": 62.33207547169811,
+      "wind_avg_mph": 2.0048047169811314,
+      "wind_dir_deg": 264.1320754716981,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 22:46:36",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 27,
+      "temperature": 62.85319148936169,
+      "wind_avg_mph": 1.0661160851063824,
+      "wind_dir_deg": 158.6595744680851,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 22:57:00",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 26,
+      "temperature": 64.07758620689656,
+      "wind_avg_mph": 1.0490477241379306,
+      "wind_dir_deg": 189.0344827586207,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 23:05:32",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 26,
+      "temperature": 65.24791666666663,
+      "wind_avg_mph": 0.8295319166666665,
+      "wind_dir_deg": 145.70833333333334,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 23:15:40",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 27,
+      "temperature": 66.29824561403511,
+      "wind_avg_mph": 0.40029452631578916,
+      "wind_dir_deg": 103.75438596491227,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 23:26:04",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 25,
+      "temperature": 66.99655172413793,
+      "wind_avg_mph": 0.6363708620689651,
+      "wind_dir_deg": 173.94827586206895,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 23:36:28",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 25,
+      "temperature": 65.79482758620689,
+      "wind_avg_mph": 0.9256303448275859,
+      "wind_dir_deg": 219.36206896551724,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 23:46:52",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 25,
+      "temperature": 66.72413793103448,
+      "wind_avg_mph": 0.5360942413793102,
+      "wind_dir_deg": 159.93103448275863,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-09 23:57:16",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 25,
+      "temperature": 64.82758620689656,
+      "wind_avg_mph": 0.75978824137931,
+      "wind_dir_deg": 217.75862068965517,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 00:05:48",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 27,
+      "temperature": 63.63617021276592,
+      "wind_avg_mph": 0.509260808510638,
+      "wind_dir_deg": 156.7872340425532,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 00:15:08",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 27,
+      "temperature": 61.488679245283045,
+      "wind_avg_mph": 0.544462754716981,
+      "wind_dir_deg": 190.37735849056602,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 00:25:32",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 30,
+      "temperature": 59.24912280701755,
+      "wind_avg_mph": 0.14912933333333334,
+      "wind_dir_deg": 185,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 00:34:04",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 32,
+      "temperature": 57.50833333333332,
+      "wind_avg_mph": 0.2563160416666667,
+      "wind_dir_deg": 228.47916666666666,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 00:43:24",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 33,
+      "temperature": 56.31730769230773,
+      "wind_avg_mph": 0.10324338461538463,
+      "wind_dir_deg": 222.19230769230768,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 00:51:56",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 36,
+      "temperature": 55.00638297872339,
+      "wind_avg_mph": 0.019037787234042557,
+      "wind_dir_deg": 165,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 01:01:16",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 40,
+      "temperature": 53.765999999999984,
+      "wind_avg_mph": 0.24606340000000004,
+      "wind_dir_deg": 214.26,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 01:09:48",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 44,
+      "temperature": 52.42291666666667,
+      "wind_avg_mph": 0.13980875,
+      "wind_dir_deg": 234.08333333333334,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 01:18:20",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 45,
+      "temperature": 51.42291666666667,
+      "wind_avg_mph": 0.069904375,
+      "wind_dir_deg": 292.0416666666667,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 01:28:44",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 45,
+      "temperature": 50.603389830508476,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 301.1694915254237,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 01:38:52",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 46,
+      "temperature": 49.684210526315816,
+      "wind_avg_mph": 0.07848912280701754,
+      "wind_dir_deg": 308.3157894736842,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 01:47:24",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 46,
+      "temperature": 49.11063829787233,
+      "wind_avg_mph": 0.24749123404255322,
+      "wind_dir_deg": 286.8085106382979,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 01:55:40",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 49,
+      "temperature": 48.49565217391304,
+      "wind_avg_mph": 0.1750648695652174,
+      "wind_dir_deg": 292.6521739130435,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 02:04:12",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 51,
+      "temperature": 47.80208333333332,
+      "wind_avg_mph": 0.35418216666666663,
+      "wind_dir_deg": 293.7708333333333,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 02:13:32",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 51,
+      "temperature": 47.38490566037735,
+      "wind_avg_mph": 0.4136228679245281,
+      "wind_dir_deg": 288.1132075471698,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 02:22:04",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 52,
+      "temperature": 46.87499999999998,
+      "wind_avg_mph": 0.6897231666666666,
+      "wind_dir_deg": 276.0625,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 02:30:20",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 53,
+      "temperature": 46.528888888888915,
+      "wind_avg_mph": 0.710849822222222,
+      "wind_dir_deg": 288.6222222222222,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 02:39:40",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 55,
+      "temperature": 46.049056603773614,
+      "wind_avg_mph": 0.7343916226415088,
+      "wind_dir_deg": 278.9433962264151,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 02:50:04",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 55,
+      "temperature": 45.59473684210523,
+      "wind_avg_mph": 0.7770423157894735,
+      "wind_dir_deg": 278,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 02:58:36",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 56,
+      "temperature": 45.36458333333334,
+      "wind_avg_mph": 1.0951685416666663,
+      "wind_dir_deg": 276.2916666666667,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 03:06:52",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 57,
+      "temperature": 44.74255319148934,
+      "wind_avg_mph": 0.2665290212765958,
+      "wind_dir_deg": 285.1063829787234,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 03:15:24",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 57,
+      "temperature": 44.33541666666665,
+      "wind_avg_mph": 0.17243079166666667,
+      "wind_dir_deg": 217,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 03:24:44",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 57,
+      "temperature": 44.15961538461537,
+      "wind_avg_mph": 1.7852501923076918,
+      "wind_dir_deg": 272.96153846153845,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 03:35:08",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 58,
+      "temperature": 43.93898305084749,
+      "wind_avg_mph": 1.8540062033898301,
+      "wind_dir_deg": 271.864406779661,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 03:43:40",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 60,
+      "temperature": 43.50833333333333,
+      "wind_avg_mph": 0.20039254166666667,
+      "wind_dir_deg": 213.89583333333334,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 03:53:00",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 61,
+      "temperature": 43.175000000000004,
+      "wind_avg_mph": 0.9679067307692306,
+      "wind_dir_deg": 283.3076923076923,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 04:01:16",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 59,
+      "temperature": 43.178260869565214,
+      "wind_avg_mph": 0.9385422173913042,
+      "wind_dir_deg": 282.9782608695652,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 04:11:40",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 59,
+      "temperature": 42.95438596491235,
+      "wind_avg_mph": 0.380672245614035,
+      "wind_dir_deg": 289.7719298245614,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 04:20:12",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 60,
+      "temperature": 42.79574468085104,
+      "wind_avg_mph": 1.0375594042553191,
+      "wind_dir_deg": 250.93617021276594,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 04:28:28",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 61,
+      "temperature": 42.6276595744681,
+      "wind_avg_mph": 1.2041400425531916,
+      "wind_dir_deg": 278.36170212765956,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 04:37:00",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 61,
+      "temperature": 42.374468085106365,
+      "wind_avg_mph": 1.0661160851063827,
+      "wind_dir_deg": 274.6595744680851,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 04:45:32",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 60,
+      "temperature": 42.652083333333344,
+      "wind_avg_mph": 1.421388958333333,
+      "wind_dir_deg": 277.875,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 04:54:52",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 61,
+      "temperature": 42.35098039215686,
+      "wind_avg_mph": 1.2983024313725486,
+      "wind_dir_deg": 275.3333333333333,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 05:04:12",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 61,
+      "temperature": 42.276923076923055,
+      "wind_avg_mph": 0.9248886538461536,
+      "wind_dir_deg": 279.1730769230769,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 05:13:32",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 63,
+      "temperature": 41.94200000000003,
+      "wind_avg_mph": 1.0692573199999997,
+      "wind_dir_deg": 283.74,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 05:23:56",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 64,
+      "temperature": 41.732203389830524,
+      "wind_avg_mph": 1.4255753220338985,
+      "wind_dir_deg": 282.5762711864407,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 05:32:12",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 65,
+      "temperature": 41.404444444444444,
+      "wind_avg_mph": 1.7696680888888883,
+      "wind_dir_deg": 274.1111111111111,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 05:42:36",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 67,
+      "temperature": 41.249999999999986,
+      "wind_avg_mph": 1.3961591034482757,
+      "wind_dir_deg": 275.3103448275862,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 05:51:40",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 69,
+      "temperature": 40.91764705882353,
+      "wind_avg_mph": 0.7237158823529408,
+      "wind_dir_deg": 290.54901960784315,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 06:00:28",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 70,
+      "temperature": 40.95957446808513,
+      "wind_avg_mph": 1.004243276595744,
+      "wind_dir_deg": 286.8085106382979,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 06:09:48",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 72,
+      "temperature": 40.50566037735851,
+      "wind_avg_mph": 1.0467190943396223,
+      "wind_dir_deg": 283.39622641509436,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 06:19:08",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 72,
+      "temperature": 40.4686274509804,
+      "wind_avg_mph": 1.0965392156862743,
+      "wind_dir_deg": 274.2156862745098,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 06:28:28",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 73,
+      "temperature": 40.2921568627451,
+      "wind_avg_mph": 0.8421421176470583,
+      "wind_dir_deg": 286.7450980392157,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 06:38:52",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 73,
+      "temperature": 40.305263157894714,
+      "wind_avg_mph": 0.8947760000000001,
+      "wind_dir_deg": 278.3333333333333,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 06:48:12",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 73,
+      "temperature": 40.330769230769256,
+      "wind_avg_mph": 1.3808802692307685,
+      "wind_dir_deg": 284.96153846153845,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 06:58:36",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 73,
+      "temperature": 40.20181818181817,
+      "wind_avg_mph": 0.9151118181818182,
+      "wind_dir_deg": 283.27272727272725,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 07:07:56",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 71,
+      "temperature": 40.57169811320751,
+      "wind_avg_mph": 1.4856658113207548,
+      "wind_dir_deg": 280.0566037735849,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 07:18:20",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 71,
+      "temperature": 40.54999999999997,
+      "wind_avg_mph": 1.4260492499999995,
+      "wind_dir_deg": 278.0357142857143,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 07:26:52",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 72,
+      "temperature": 40.541304347826085,
+      "wind_avg_mph": 1.3129865217391303,
+      "wind_dir_deg": 280.8478260869565,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 07:35:24",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 71,
+      "temperature": 40.54680851063827,
+      "wind_avg_mph": 1.4563907234042555,
+      "wind_dir_deg": 283.6170212765957,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 07:44:44",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 72,
+      "temperature": 40.42156862745099,
+      "wind_avg_mph": 0.7851220784313722,
+      "wind_dir_deg": 287.47058823529414,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 07:53:16",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 72,
+      "temperature": 40.21702127659572,
+      "wind_avg_mph": 0.9233326808510633,
+      "wind_dir_deg": 283.1276595744681,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 08:02:36",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 71,
+      "temperature": 40.588235294117645,
+      "wind_avg_mph": 1.4079563529411765,
+      "wind_dir_deg": 278.5882352941176,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 08:13:00",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 71,
+      "temperature": 40.47966101694912,
+      "wind_avg_mph": 0.6142106440677962,
+      "wind_dir_deg": 281.8135593220339,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 08:22:36",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 72,
+      "temperature": 40.14807692307689,
+      "wind_avg_mph": 0.7743253846153846,
+      "wind_dir_deg": 286.75,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 08:33:00",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 73,
+      "temperature": 39.76140350877192,
+      "wind_avg_mph": 0.6122151578947365,
+      "wind_dir_deg": 293.50877192982455,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 08:43:24",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 73,
+      "temperature": 39.718965517241394,
+      "wind_avg_mph": 0.6865091724137927,
+      "wind_dir_deg": 254.98275862068965,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 08:52:44",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 75,
+      "temperature": 39.5607843137255,
+      "wind_avg_mph": 1.245668549019608,
+      "wind_dir_deg": 279.2352941176471,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 09:03:08",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 76,
+      "temperature": 39.217543859649126,
+      "wind_avg_mph": 1.546235719298246,
+      "wind_dir_deg": 281.1578947368421,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 09:11:40",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 78,
+      "temperature": 39.13191489361703,
+      "wind_avg_mph": 1.537301319148936,
+      "wind_dir_deg": 276.1276595744681,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 09:21:16",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 78,
+      "temperature": 38.94716981132077,
+      "wind_avg_mph": 0.6499787924528299,
+      "wind_dir_deg": 288.37735849056605,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 09:30:36",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 79,
+      "temperature": 38.66730769230768,
+      "wind_avg_mph": 0.8689651538461536,
+      "wind_dir_deg": 288.34615384615387,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 09:38:52",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 79,
+      "temperature": 38.623913043478254,
+      "wind_avg_mph": 0.5884124782608695,
+      "wind_dir_deg": 289.39130434782606,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 09:47:24",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 80,
+      "temperature": 38.55531914893617,
+      "wind_avg_mph": 0.9756865957446805,
+      "wind_dir_deg": 284.468085106383,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 09:56:44",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 80,
+      "temperature": 38.75714285714286,
+      "wind_avg_mph": 1.4745543265306118,
+      "wind_dir_deg": 278,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 10:07:08",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 80,
+      "temperature": 38.73620689655174,
+      "wind_avg_mph": 1.8435471034482773,
+      "wind_dir_deg": 273,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 10:15:40",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 81,
+      "temperature": 38.70425531914893,
+      "wind_avg_mph": 1.3278856595744675,
+      "wind_dir_deg": 292.3404255319149,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 10:24:12",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 82,
+      "temperature": 38.48333333333334,
+      "wind_avg_mph": 0.6617614166666665,
+      "wind_dir_deg": 282.3125,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 10:32:44",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 82,
+      "temperature": 38.442553191489395,
+      "wind_avg_mph": 0.6806008936170209,
+      "wind_dir_deg": 276.59574468085106,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 10:41:00",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 82,
+      "temperature": 38.35,
+      "wind_avg_mph": 0.43279926086956505,
+      "wind_dir_deg": 287.0869565217391,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 10:51:24",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 82,
+      "temperature": 38.54576271186439,
+      "wind_avg_mph": 0.9933530169491525,
+      "wind_dir_deg": 273.8305084745763,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 11:00:44",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 82,
+      "temperature": 38.840384615384636,
+      "wind_avg_mph": 1.3722766538461533,
+      "wind_dir_deg": 272.9423076923077,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 11:09:16",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 82,
+      "temperature": 38.97916666666669,
+      "wind_avg_mph": 1.0485656250000002,
+      "wind_dir_deg": 281.2291666666667,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 11:17:32",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 82,
+      "temperature": 38.98297872340427,
+      "wind_avg_mph": 1.1232294468085104,
+      "wind_dir_deg": 275.06382978723406,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 11:27:56",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 82,
+      "temperature": 38.73448275862067,
+      "wind_avg_mph": 1.172465103448275,
+      "wind_dir_deg": 276.8965517241379,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 11:36:28",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 83,
+      "temperature": 38.50208333333332,
+      "wind_avg_mph": 1.3095419583333336,
+      "wind_dir_deg": 280.4583333333333,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 11:46:52",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 83,
+      "temperature": 38.167241379310326,
+      "wind_avg_mph": 0.5823757586206896,
+      "wind_dir_deg": 275.5,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 11:57:00",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 85,
+      "temperature": 37.843859649122784,
+      "wind_avg_mph": 1.3421639999999995,
+      "wind_dir_deg": 286.140350877193,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 19:46:21",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 54,
+      "temperature": 56.171111111111145,
+      "wind_avg_mph": 0.8947759999999998,
+      "wind_dir_deg": 176.46666666666667,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 19:55:57",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 52,
+      "temperature": 56.46111111111106,
+      "wind_avg_mph": 1.5658579999999998,
+      "wind_dir_deg": 239.55555555555554,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 20:05:17",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 51,
+      "temperature": 57.070588235294125,
+      "wind_avg_mph": 1.258827019607843,
+      "wind_dir_deg": 245.05882352941177,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 20:13:49",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 50,
+      "temperature": 57.86382978723404,
+      "wind_avg_mph": 1.1613050212765954,
+      "wind_dir_deg": 240.10638297872342,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 20:24:13",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 48,
+      "temperature": 59.37719298245612,
+      "wind_avg_mph": 1.3421640000000001,
+      "wind_dir_deg": 236.9298245614035,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 20:34:37",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 48,
+      "temperature": 60.18070175438597,
+      "wind_avg_mph": 0.9300961052631578,
+      "wind_dir_deg": 217.43859649122808,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 20:43:09",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 46,
+      "temperature": 62.28958333333335,
+      "wind_avg_mph": 0.5499144166666665,
+      "wind_dir_deg": 184.79166666666666,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 20:51:25",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 43,
+      "temperature": 64.14565217391304,
+      "wind_avg_mph": 0.6321786956521734,
+      "wind_dir_deg": 173.84782608695653,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 21:01:01",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 43,
+      "temperature": 64.4,
+      "wind_avg_mph": 1.1350399259259258,
+      "wind_dir_deg": 179.74074074074073,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 21:11:25",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 42,
+      "temperature": 65.19137931034489,
+      "wind_avg_mph": 0.8099265517241375,
+      "wind_dir_deg": 157.91379310344828,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 21:19:57",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 41,
+      "temperature": 65.07083333333331,
+      "wind_avg_mph": 0.6990437499999995,
+      "wind_dir_deg": 141.14583333333334,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 21:29:33",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 39,
+      "temperature": 66.78888888888889,
+      "wind_avg_mph": 0.654512074074074,
+      "wind_dir_deg": 147.38888888888889,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 21:39:41",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 41,
+      "temperature": 65.25087719298246,
+      "wind_avg_mph": 1.043905333333333,
+      "wind_dir_deg": 171.8421052631579,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 21:48:13",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 40,
+      "temperature": 64.80000000000001,
+      "wind_avg_mph": 1.3095419583333328,
+      "wind_dir_deg": 215.52083333333334,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 21:56:29",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 39,
+      "temperature": 65.45106382978722,
+      "wind_avg_mph": 1.0137621702127657,
+      "wind_dir_deg": 189.12765957446808,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 22:05:01",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 39,
+      "temperature": 66.3208333333333,
+      "wind_avg_mph": 0.624479083333333,
+      "wind_dir_deg": 132.35416666666666,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 22:15:25",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 39,
+      "temperature": 66.91724137931033,
+      "wind_avg_mph": 0.7135067241379306,
+      "wind_dir_deg": 137.8793103448276,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 22:25:49",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 39,
+      "temperature": 66.79827586206896,
+      "wind_avg_mph": 0.7019363448275858,
+      "wind_dir_deg": 148.91379310344828,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 22:36:13",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 39,
+      "temperature": 66.67586206896547,
+      "wind_avg_mph": 0.7906425862068962,
+      "wind_dir_deg": 178.27586206896552,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 22:46:37",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 40,
+      "temperature": 65.74406779661018,
+      "wind_avg_mph": 0.8265303728813554,
+      "wind_dir_deg": 162.25423728813558,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 22:55:09",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 40,
+      "temperature": 65.9854166666667,
+      "wind_avg_mph": 0.6943834583333329,
+      "wind_dir_deg": 126.70833333333333,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 23:04:29",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 41,
+      "temperature": 66.17115384615386,
+      "wind_avg_mph": 0.6194603076923074,
+      "wind_dir_deg": 169.5,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 23:12:45",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 40,
+      "temperature": 66.58478260869562,
+      "wind_avg_mph": 0.675944913043478,
+      "wind_dir_deg": 188.02173913043478,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 23:22:21",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 41,
+      "temperature": 65.94814814814812,
+      "wind_avg_mph": 0.4846703333333331,
+      "wind_dir_deg": 117.68518518518519,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 23:31:41",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 41,
+      "temperature": 64.60384615384615,
+      "wind_avg_mph": 1.2604296538461535,
+      "wind_dir_deg": 239.73076923076923,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 23:41:01",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 42,
+      "temperature": 64.08867924528302,
+      "wind_avg_mph": 0.861010867924528,
+      "wind_dir_deg": 228.41509433962264,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 23:50:21",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 42,
+      "temperature": 63.7,
+      "wind_avg_mph": 0.5771305199999999,
+      "wind_dir_deg": 184.7,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-10 23:59:41",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 45,
+      "temperature": 61.54905660377351,
+      "wind_avg_mph": 0.32921003773584895,
+      "wind_dir_deg": 201.62264150943398,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-11 00:08:13",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 46,
+      "temperature": 60.01458333333332,
+      "wind_avg_mph": 0.4753497499999997,
+      "wind_dir_deg": 224.1875,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-11 00:16:29",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 51,
+      "temperature": 58.5673913043478,
+      "wind_avg_mph": 0.1507503043478261,
+      "wind_dir_deg": 141.52173913043478,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-11 00:25:01",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 53,
+      "temperature": 57.41666666666668,
+      "wind_avg_mph": 0.041942625000000004,
+      "wind_dir_deg": 192.39583333333334,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-11 00:34:21",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 55,
+      "temperature": 55.94716981132075,
+      "wind_avg_mph": 0.12661924528301888,
+      "wind_dir_deg": 208.83018867924528,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-11 00:43:57",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 55,
+      "temperature": 54.88333333333333,
+      "wind_avg_mph": 0.09941955555555557,
+      "wind_dir_deg": 259.7962962962963,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-11 00:53:17",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 56,
+      "temperature": 53.998039215686234,
+      "wind_avg_mph": 0.08333698039215687,
+      "wind_dir_deg": 184.88235294117646,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-11 01:02:37",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 57,
+      "temperature": 53.21509433962268,
+      "wind_avg_mph": 0.025323849056603776,
+      "wind_dir_deg": 196.9056603773585,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-11 01:13:01",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 59,
+      "temperature": 52.410344827586194,
+      "wind_avg_mph": 0.03471113793103448,
+      "wind_dir_deg": 246.82758620689654,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-11 01:21:33",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 59,
+      "temperature": 51.937500000000036,
+      "wind_avg_mph": 0.08388525000000001,
+      "wind_dir_deg": 244.54166666666666,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-11 01:30:05",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 60,
+      "temperature": 51.48333333333331,
+      "wind_avg_mph": 0.03262204166666667,
+      "wind_dir_deg": 143.58333333333334,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-11 01:39:25",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 62,
+      "temperature": 50.901886792452885,
+      "wind_avg_mph": 0.01688256603773585,
+      "wind_dir_deg": 194.24528301886792,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-11 01:47:57",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 63,
+      "temperature": 50.53958333333335,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 262.9375,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-11 01:57:17",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 64,
+      "temperature": 50.2,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 265.0192307692308,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-11 02:06:37",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 66,
+      "temperature": 49.74230769230768,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 266.84615384615387,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-11 02:17:01",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 66,
+      "temperature": 49.641379310344796,
+      "wind_avg_mph": 0.057851896551724145,
+      "wind_dir_deg": 260.82758620689657,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-11 02:26:37",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 67,
+      "temperature": 49.49074074074078,
+      "wind_avg_mph": 0.028997370370370375,
+      "wind_dir_deg": 319.25925925925924,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-11 02:35:09",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 68,
+      "temperature": 49.18333333333331,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 244.25,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-11 02:44:29",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 70,
+      "temperature": 48.77169811320751,
+      "wind_avg_mph": 0.012661924528301888,
+      "wind_dir_deg": 280.3018867924528,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-11 02:53:49",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 71,
+      "temperature": 48.3653846153846,
+      "wind_avg_mph": 0.04301807692307692,
+      "wind_dir_deg": 287.5769230769231,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-11 03:02:21",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 72,
+      "temperature": 48.09374999999998,
+      "wind_avg_mph": 0.19573225000000002,
+      "wind_dir_deg": 294.8333333333333,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-11 03:11:41",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 73,
+      "temperature": 47.86792452830186,
+      "wind_avg_mph": 0.1477224528301887,
+      "wind_dir_deg": 295.7169811320755,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-11 03:22:05",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 74,
+      "temperature": 47.43103448275868,
+      "wind_avg_mph": 0.09256303448275863,
+      "wind_dir_deg": 298.5344827586207,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-11 03:31:41",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 74,
+      "temperature": 47.28490566037731,
+      "wind_avg_mph": 0.3038861886792453,
+      "wind_dir_deg": 285.0377358490566,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-11 03:41:01",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 75,
+      "temperature": 47.143396226415085,
+      "wind_avg_mph": 0.5022563396226412,
+      "wind_dir_deg": 283.8301886792453,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-11 03:51:25",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 76,
+      "temperature": 46.95172413793108,
+      "wind_avg_mph": 0.40110648275862054,
+      "wind_dir_deg": 280,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-11 04:01:01",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 76,
+      "temperature": 46.69999999999997,
+      "wind_avg_mph": 0.563377481481481,
+      "wind_dir_deg": 283.22222222222223,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-11 04:09:33",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 77,
+      "temperature": 46.47916666666668,
+      "wind_avg_mph": 0.42874683333333313,
+      "wind_dir_deg": 268.0625,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-11 04:19:57",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 77,
+      "temperature": 46.29285714285712,
+      "wind_avg_mph": 0.5232841785714283,
+      "wind_dir_deg": 279.5357142857143,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-11 04:28:29",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 78,
+      "temperature": 45.82916666666665,
+      "wind_avg_mph": 0.35884245833333334,
+      "wind_dir_deg": 279.2916666666667,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-11 04:38:05",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 78,
+      "temperature": 45.63518518518516,
+      "wind_avg_mph": 0.9817681111111105,
+      "wind_dir_deg": 274.9259259259259,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-11 04:47:25",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 78,
+      "temperature": 45.480769230769255,
+      "wind_avg_mph": 0.8001362307692296,
+      "wind_dir_deg": 281.11538461538464,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-11 04:57:49",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 78,
+      "temperature": 45.3745762711865,
+      "wind_avg_mph": 0.47771938983050816,
+      "wind_dir_deg": 281.3898305084746,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-11 05:08:13",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 78,
+      "temperature": 45.139655172413775,
+      "wind_avg_mph": 0.5785189655172411,
+      "wind_dir_deg": 278.5689655172414,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-11 05:17:33",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 79,
+      "temperature": 45.165384615384625,
+      "wind_avg_mph": 0.9980193846153843,
+      "wind_dir_deg": 275.3076923076923,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-11 05:26:05",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 78,
+      "temperature": 45.114893617021266,
+      "wind_avg_mph": 1.1517861276595738,
+      "wind_dir_deg": 274.3829787234043,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-11 05:35:25",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 77,
+      "temperature": 45.311764705882375,
+      "wind_avg_mph": 1.11847,
+      "wind_dir_deg": 278.62745098039215,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-11 05:45:49",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 77,
+      "temperature": 45.14406779661015,
+      "wind_avg_mph": 1.490029525423729,
+      "wind_dir_deg": 273.9830508474576,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-11 05:54:21",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 78,
+      "temperature": 44.62083333333334,
+      "wind_avg_mph": 1.1837140833333337,
+      "wind_dir_deg": 273.5625,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-11 06:02:53",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 78,
+      "temperature": 44.47916666666668,
+      "wind_avg_mph": 1.3747860416666662,
+      "wind_dir_deg": 270.75,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-11 06:13:17",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 79,
+      "temperature": 44.19827586206894,
+      "wind_avg_mph": 1.8589742758620698,
+      "wind_dir_deg": 274.7931034482759,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-11 06:22:53",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 81,
+      "temperature": 43.43333333333334,
+      "wind_avg_mph": 0.7746440370370365,
+      "wind_dir_deg": 289.2962962962963,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-11 06:31:25",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 83,
+      "temperature": 43.13124999999999,
+      "wind_avg_mph": 0.9833215416666663,
+      "wind_dir_deg": 278.125,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-11 06:41:49",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 83,
+      "temperature": 42.852542372881395,
+      "wind_avg_mph": 0.4890936610169489,
+      "wind_dir_deg": 285.91525423728814,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-11 06:52:13",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 84,
+      "temperature": 42.7362068965517,
+      "wind_avg_mph": 0.5438078275862065,
+      "wind_dir_deg": 280.48275862068965,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-11 07:02:37",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 84,
+      "temperature": 42.03103448275861,
+      "wind_avg_mph": 0.023140758620689657,
+      "wind_dir_deg": 230.32758620689654,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-11 07:12:13",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 85,
+      "temperature": 41.45370370370371,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 220.05555555555554,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-11 07:21:49",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 85,
+      "temperature": 41.85000000000001,
+      "wind_avg_mph": 0.08603615384615385,
+      "wind_dir_deg": 253.75,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-11 07:32:13",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 82,
+      "temperature": 42.64035087719295,
+      "wind_avg_mph": 0.8005890526315791,
+      "wind_dir_deg": 290.3333333333333,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-11 07:41:49",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 82,
+      "temperature": 42.6811320754717,
+      "wind_avg_mph": 1.2619718113207545,
+      "wind_dir_deg": 276.8490566037736,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-11 07:50:05",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 82,
+      "temperature": 42.42978723404255,
+      "wind_avg_mph": 0.8233842978723399,
+      "wind_dir_deg": 286.17021276595744,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-11 07:59:25",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 82,
+      "temperature": 42.098076923076924,
+      "wind_avg_mph": 0.7054964615384615,
+      "wind_dir_deg": 266.7307692307692,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-11 08:07:57",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 81,
+      "temperature": 42.429787234042564,
+      "wind_avg_mph": 1.6086930212765957,
+      "wind_dir_deg": 274.29787234042556,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-11 08:16:29",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 81,
+      "temperature": 42.23829787234044,
+      "wind_avg_mph": 1.34692344680851,
+      "wind_dir_deg": 275.0851063829787,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-11 08:26:53",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 81,
+      "temperature": 42.151724137931026,
+      "wind_avg_mph": 1.0721884827586203,
+      "wind_dir_deg": 280.01724137931035,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-11 08:37:17",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 81,
+      "temperature": 42.14035087719298,
+      "wind_avg_mph": 1.2479770526315788,
+      "wind_dir_deg": 278.719298245614,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-11 08:45:49",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 81,
+      "temperature": 42.04583333333332,
+      "wind_avg_mph": 1.4493507083333332,
+      "wind_dir_deg": 279.2083333333333,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-11 08:54:05",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 81,
+      "temperature": 42.06304347826091,
+      "wind_avg_mph": 1.274083217391304,
+      "wind_dir_deg": 277.5217391304348,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-11 09:04:29",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 82,
+      "temperature": 41.759649122807005,
+      "wind_avg_mph": 0.910473824561403,
+      "wind_dir_deg": 285.8070175438597,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-11 09:14:05",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 82,
+      "temperature": 41.49245283018867,
+      "wind_avg_mph": 0.9538649811320753,
+      "wind_dir_deg": 282,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-11 09:23:41",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 79,
+      "temperature": 42.250943396226425,
+      "wind_avg_mph": 2.0681143396226416,
+      "wind_dir_deg": 273.50943396226415,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-11 09:34:05",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 79,
+      "temperature": 42.264406779661044,
+      "wind_avg_mph": 1.5999808135593225,
+      "wind_dir_deg": 273.5762711864407,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-11 09:42:37",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 79,
+      "temperature": 42.17446808510637,
+      "wind_avg_mph": 1.0899133191489363,
+      "wind_dir_deg": 271.70212765957444,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-11 09:51:57",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 80,
+      "temperature": 41.91153846153849,
+      "wind_avg_mph": 0.7829289999999995,
+      "wind_dir_deg": 275.5576923076923,
+      "rain_in": 0
+    }
+  },
+  {
+    "Cotech-367959": {
+      "time": "2026-01-11 10:02:21",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 80,
+      "temperature": 41.893103448275895,
+      "wind_avg_mph": 0.75978824137931,
+      "wind_dir_deg": 266.7931034482759,
+      "rain_in": 0
+    }
+  }
+]
