@@ -1428,5 +1428,27 @@
       "wind_dir_deg": 103.88888888888889,
       "rain_in": 11.606299212598419
     }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-07-29 16:55:25",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 70,
+      "temperature": 68.67499999999987,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    },
+    "Cotech-367959": {
+      "time": "2026-07-29 16:53:32",
+      "model": "Cotech-367959",
+      "id": 13,
+      "humidity": 82,
+      "temperature": 62.71999999999999,
+      "wind_avg_mph": 0.9842536000000001,
+      "wind_dir_deg": 93.7,
+      "rain_in": 11.606299212598428
+    }
   }
 ]
