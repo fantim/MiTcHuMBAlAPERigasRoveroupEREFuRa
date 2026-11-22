@@ -1126,5 +1126,17 @@
       "wind_dir_deg": 0,
       "rain_in": 0
     }
+  },
+  {
+    "Acurite-Tower": {
+      "time": "2026-11-22 21:59:06",
+      "model": "Acurite-Tower",
+      "id": 4390,
+      "humidity": 74,
+      "temperature": 54.837500000000034,
+      "wind_avg_mph": 0,
+      "wind_dir_deg": 0,
+      "rain_in": 0
+    }
   }
 ]
